@@ -8,11 +8,11 @@ The Glasgow Handball Club was founded in the September of 2000 by Alasdair "Baba
 
 ### Club Board
 
-* Chairman – Andy Burns
-* Treasurer – Marta Pieszko
-* Secretary – Chris Dalgkalis
+* Chairman – Danos Sagias
+* Treasurer – Andy Burns
+* Secretary – Francisco Cuellar
 * Women`s coaches – Andy Burns, Marta Pieszko
-* Men’s coaches – Yoann Gloaguen, Sebastian Bachmann, Josef Camilleri, Pascal Lϋders
+* Men’s coaches – Josef Camilleri, Sebastian Bachmann
 
 ### How to contact us
 
