@@ -6,7 +6,7 @@ import logo from '../img/logo.svg'
 import ghclogo from '../img/GlasgowHandballHeader.png'
 
 const Navbar = () => (
-  <nav className="navbar is-transparent">
+  <nav className="navbar is-transparent is-fixed-top">
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">

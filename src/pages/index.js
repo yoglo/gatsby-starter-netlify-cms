@@ -18,7 +18,7 @@ export default class IndexPage extends React.Component {
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <figure className="image">
-                    <img src={ghcmainlogo} alt="GHC-logo" style={{ width: '330px' }} />
+                    <img src={ghcmainlogo} alt="GHC-logo" style={{ width: '330px' }} id="ghcmainlogoindex"/>
                 </figure>
               </div>
             </div>
