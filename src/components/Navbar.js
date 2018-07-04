@@ -14,13 +14,13 @@ const Navbar = () => (
             <img src={ghclogo} alt="Kaldi" style={{ width: '65px' }} />
           </figure>
         </Link>
-        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+        <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
         </a>
       </div>
-      <div class="navbar-menu">
+      <div class="navbar-menu" id="navMenu">
         <div className="navbar-start">
           <Link className="navbar-item" to="/about">
             About
