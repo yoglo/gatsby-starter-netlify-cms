@@ -51,7 +51,11 @@ export default class IndexPage extends React.Component {
                   <p class="has-text-centered">
                     <img alt="" src={trainingboardimg}/>
                   </p>
-                  <p>We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop.
+                  <p>Trainings are every <strong>Thursday</strong> at <strong>8:00pm.</strong><br/>
+                    <strong>Hutchesons' Grammar School</strong><br/>
+                    <strong>21 Beaton Rd,</strong><br/>
+                    <strong>Glasgow, G41 4NW</strong><br/>
+                  See our latest stories section or about page for more details.
                   </p>
                 </section>
               </div>
