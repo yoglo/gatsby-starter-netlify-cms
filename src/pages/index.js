@@ -5,6 +5,10 @@ import shirtimg from '../img/maillot2.jpg'
 import ghcmainlogo from '../img/GlasgowHandballLogo.png'
 import ballimg from '../img/ball.png'
 import trainingboardimg from '../img/training_board.png'
+import kristherapy from '../img/kris_sport_therapy.png'
+import energo from '../img/logo_energo.png'
+import scottishHB from '../img/scottish_handball.png'
+import britishHB from '../img/british_handball.png'
 
 export default class IndexPage extends React.Component {
   render() {
@@ -27,18 +31,18 @@ export default class IndexPage extends React.Component {
                 style={{ backgroundImage: `url(${shirtimg})` }}
               >
             </div>
-            <div class="columns">
-              <div class="column is-7">
-                <h3 class="has-text-weight-semibold is-size-2">Join us</h3>
+            <div className="columns">
+              <div className="column is-7">
+                <h1 className="has-text-weight-bold is-size-2">Join us</h1>
                 <p>
                   Whether you're completely new or have many years of experience, play handball for Glasgow and come along to one of our free taster sessions! Everyone is friendly and welcoming, so why not give it a try?
                 </p>
               </div>
             </div>
-            <div class="columns is-multiline">
-              <div class="column is-6">
-                <section class="section">
-                  <p class="has-text-centered">
+            <div className="columns is-multiline">
+              <div className="column is-6">
+                <section className="section">
+                  <p className="has-text-centered">
                     <img alt="" src={ballimg}/>
                   </p>
                   <p>
@@ -46,9 +50,9 @@ export default class IndexPage extends React.Component {
                   </p>
                 </section>
               </div>
-              <div class="column is-6">
-                <section class="section">
-                  <p class="has-text-centered">
+              <div className="column is-6">
+                <section className="section">
+                  <p className="has-text-centered">
                     <img alt="" src={trainingboardimg}/>
                   </p>
                   <p>Trainings are every <strong>Thursday</strong> at <strong>8:00pm.</strong><br/>
@@ -58,6 +62,20 @@ export default class IndexPage extends React.Component {
                   See our latest stories section or about page for more details.
                   </p>
                 </section>
+              </div>
+            </div>
+
+            <h1 className="has-text-weight-bold is-size-2">Our sponsors and partners</h1>
+            <div className="columns is-multiline">
+              <div className="column is-6">
+                  <p className="has-text-centered">
+                    <a href="https://www.facebook.com/krissportstherapy/" target="_blank"><img alt="" src={kristherapy}/></a>
+                  </p>
+              </div>
+              <div className="column is-6">
+                  <p className="has-text-centered">
+                    <img alt="" src={energo}/>
+                  </p>
               </div>
             </div>
             
@@ -87,6 +105,21 @@ export default class IndexPage extends React.Component {
                 </p>
               </div>
             ))}
+          <div className="content">
+            <h1 className="has-text-weight-bold is-size-2">External links</h1>
+            <div className="columns is-multiline">
+              <div className="column is-6">
+                  <p className="has-text-centered">
+                    <a href="https://handball.scot/" target="_blank"><img alt="" src={scottishHB}/></a>
+                  </p>
+              </div>
+              <div className="column is-6">
+                  <p className="has-text-centered">
+                    <a href="http://www.britishhandball.com/" target="_blank"><img alt="" src={britishHB}/></a>
+                  </p>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
     )
