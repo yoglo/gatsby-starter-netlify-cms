@@ -155,10 +155,10 @@ ProductPage.propTypes = {
   }),
 }
 
-export default ProductPage
+export default TeamPage
 
-export const productPageQuery = graphql`
-  query ProductPage($id: String!) {
+export const teamPageQuery = graphql`
+  query TeamPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
