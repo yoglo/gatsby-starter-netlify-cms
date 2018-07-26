@@ -1,8 +1,7 @@
 ---
-templateKey: 'team-page'
-path: /team
+templateKey: team-page
 title: Our Coffee
-image: /img/jumbotron.jpg
+image: /img/glasgow-hc-team-photo.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
