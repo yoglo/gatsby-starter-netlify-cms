@@ -1,7 +1,7 @@
 ---
 templateKey: team-page
-title: Our Coffee
-image: /img/glasgow-hc-team-photo.jpg
+title: blabla
+image: /img/glasgow-hc-team-photo_wide.png
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
