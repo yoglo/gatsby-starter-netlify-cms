@@ -10,6 +10,13 @@ const FeatureGrid = ({ gridItems }) => (
             <img alt="" src={item.image} />
           </p>
           <p className="has-text-weight-bold">{item.text}</p>
+          <ul>
+            {item.items.map(item => (
+              <li key={item} className="is-size-5">
+                {item}
+              </li>
+            ))}
+          </ul>
         </section>
       </div>
     ))}
@@ -21,6 +28,7 @@ FeatureGrid.propTypes = {
     PropTypes.shape({
       image: PropTypes.string,
       text: PropTypes.string,
+      items: PropTypes.array,
     })
   ),
 }
