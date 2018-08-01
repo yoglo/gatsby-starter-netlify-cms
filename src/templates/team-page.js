@@ -157,7 +157,7 @@ export const teamPageQuery = graphql`
         intro {
           blurbs {
             image
-            text
+            items
           }
           heading
           description
