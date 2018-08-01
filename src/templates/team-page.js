@@ -6,7 +6,6 @@ import Pricing from '../components/Pricing'
 
 export const TeamPageTemplate = ({
   image,
-  title,
   heading,
   description,
   intro,
