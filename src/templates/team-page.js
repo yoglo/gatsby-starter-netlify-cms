@@ -96,7 +96,6 @@ export const TeamPageTemplate = ({
 
 TeamPageTemplate.propTypes = {
   image: PropTypes.string,
-  title: PropTypes.string,
   heading: PropTypes.string,
   description: PropTypes.string,
   intro: PropTypes.shape({
@@ -124,7 +123,6 @@ const TeamPage = ({ data }) => {
   return (
     <TeamPageTemplate
       image={frontmatter.image}
-      title={frontmatter.title}
       heading={frontmatter.heading}
       description={frontmatter.description}
       intro={frontmatter.intro}
@@ -150,7 +148,6 @@ export const teamPageQuery = graphql`
   query TeamPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
-        title
         image
         heading
         description

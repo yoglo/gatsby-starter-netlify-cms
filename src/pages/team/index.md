@@ -1,6 +1,5 @@
 ---
 templateKey: team-page
-title: blabla
 image: /img/glasgow-hc-team-photo_wide.png
 heading: What we offer
 description: >-
