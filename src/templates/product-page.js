@@ -169,6 +169,7 @@ export const productPageQuery = graphql`
           blurbs {
             image
             text
+            items
           }
           heading
           description
