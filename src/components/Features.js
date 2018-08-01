@@ -11,9 +11,9 @@ const FeatureGrid = ({ gridItems }) => (
           </p>
           <p className="has-text-weight-bold">{item.text}</p>
           <ul>
-            {item.items.map(item => (
-              <li key={item} className="is-size-5">
-                {item}
+            {item.items.map(subitem => (
+              <li key={subitem} className="is-size-5">
+                {subitem}
               </li>
             ))}
           </ul>
