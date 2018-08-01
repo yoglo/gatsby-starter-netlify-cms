@@ -1,0 +1,3348 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8eadd2d2a4b2d37d358968d5f03c2b40",
+        "description": "Plugin dev-404-page",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "95bfdf7a6af92529d37ec13d75775cae",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "10b64a9660cd73449cf4fbbf7914705e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c744b37a6045ce537b7d2632199801ed",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6997eca534c3f3a2c6fd55c7c477100a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4bb57be808d79b5e9d510f7d27c8faa5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "2.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "2.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f01f82fa201f218debd40499edf35f97",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sass": {
+      "resolve": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-plugin-sass",
+      "id": "Plugin gatsby-plugin-sass",
+      "name": "gatsby-plugin-sass",
+      "version": "1.0.26",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "1.0.26",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sass",
+          "scss"
+        ],
+        "author": "Daniel Farrell <daniel@mobelux.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "gatsby-1-config-css-modules",
+            "version": "^1.0.11"
+          },
+          {
+            "name": "gatsby-1-config-extract-plugin",
+            "version": "^1.0.3"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.5.2"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^4.1.1"
+          },
+          {
+            "name": "webpack",
+            "version": "^1.13.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "200d87e5a2cebe50a4dd1ea59521d8cd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.38",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+        "name": "images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.38",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.250"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5f1f326e6470ae3df8599237d3790682",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.47",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.47",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "5.0.1"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a2f33107bba06ac1659e74410ad38336",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.26",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.26",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4bb6f4add1f74a4cfb52189969b576af",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.43",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.43",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5911601a61e8acc3a4be720d696825df",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-netlify-cms": {
+      "resolve": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-plugin-netlify-cms",
+      "id": "Plugin gatsby-plugin-netlify-cms",
+      "name": "gatsby-plugin-netlify-cms",
+      "version": "1.0.12",
+      "pluginOptions": {
+        "plugins": [],
+        "modulePath": "/Users/yoanngloaguen/Documents/ghc_website/src/cms/cms.js"
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "browserAPIs": [
+        "onInitialClientRender"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-plugin-netlify-cms",
+      "packageJson": {
+        "name": "gatsby-plugin-netlify-cms",
+        "description": "A Gatsby plugin which generates the Netlify CMS single page app",
+        "version": "1.0.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "netlify",
+          "netlify-cms"
+        ],
+        "author": "Shawn Erquhart <shawn@erquh.art>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "html-webpack-include-assets-plugin",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "html-webpack-plugin",
+            "version": "^2.30.1"
+          },
+          {
+            "name": "netlify-cms",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "netlify-identity-widget",
+            "version": "^1.4.11"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.3"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1f2d04c43a0a1adaefa771d67ccc3ad3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-netlify": {
+      "resolve": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-plugin-netlify",
+      "id": "Plugin gatsby-plugin-netlify",
+      "name": "gatsby-plugin-netlify",
+      "version": "1.0.21",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig",
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-plugin-netlify",
+      "packageJson": {
+        "name": "gatsby-plugin-netlify",
+        "description": "A Gatsby plugin which generates a _headers file for netlify",
+        "version": "1.0.21",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "http/2-server-push",
+          "netlify"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "webpack-assets-manifest",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0661fa24d7c2ff96641f24aa4f7e7be4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/yoanngloaguen/Documents/ghc_website",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "38164114e866388977aa66fde8a37e9d",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onCreateNode"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/yoanngloaguen/Documents/ghc_website",
+      "packageJson": {
+        "name": "gatsby-starter-netlify-cms",
+        "description": "Example Gatsby, and Netlify CMS project",
+        "version": "1.1.3",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Austin Green",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "bulma",
+            "version": "^0.6.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.9.213"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.37"
+          },
+          {
+            "name": "gatsby-plugin-netlify",
+            "version": "^1.0.19"
+          },
+          {
+            "name": "gatsby-plugin-netlify-cms",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^1.0.17"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.34"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.50"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.23"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.33"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.21"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.5"
+          },
+          {
+            "name": "lodash-webpack-plugin",
+            "version": "^0.11.4"
+          },
+          {
+            "name": "netlify-cms",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.6.0"
+          },
+          {
+            "name": "react",
+            "version": "^16.2.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "uuid",
+            "version": "^3.2.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.7.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "64d12c7c95724b2af3b75fae919791ad",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-page-creator": {
+      "resolve": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-plugin-page-creator",
+      "id": "Plugin gatsby-plugin-page-creator",
+      "name": "gatsby-plugin-page-creator",
+      "version": "1.0.1",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/yoanngloaguen/Documents/ghc_website/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/yoanngloaguen/Documents/ghc_website/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "1.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "53ec983320f1690cf09c037fff9fc60b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Glasgow Handball club"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "buildTime": "2018-07-25T12:46:54.998Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ba57981dbb8aee18a588420a113bfff7",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "84ff40f50e05f525859ea914514d6b62",
+        "type": "Directory",
+        "description": "Directory \"src/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 256,
+      "prettySize": "256 B",
+      "modifiedTime": "2018-06-27T17:01:54.062Z",
+      "accessTime": "2018-07-25T12:47:00.622Z",
+      "changeTime": "2018-06-27T17:01:54.062Z",
+      "birthTime": "2018-06-27T17:01:54.053Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 8,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592883746,
+      "blocks": 0,
+      "atimeMs": 1532522820621.9705,
+      "mtimeMs": 1530118914062.3333,
+      "ctimeMs": 1530118914062.3333,
+      "birthtimeMs": 1530118914053.0012,
+      "atime": "2018-07-25T12:47:00.622Z",
+      "mtime": "2018-06-27T17:01:54.062Z",
+      "ctime": "2018-06-27T17:01:54.062Z",
+      "birthtime": "2018-06-27T17:01:54.053Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "925c52413c7bcfc4d12559c6eca7d13f",
+        "type": "Directory",
+        "description": "Directory \"src/pages/about\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about",
+      "relativePath": "about",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-07-04T10:50:33.373Z",
+      "accessTime": "2018-07-25T12:47:00.627Z",
+      "changeTime": "2018-07-04T10:50:33.373Z",
+      "birthTime": "2018-06-27T17:01:54.057Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/pages",
+      "base": "about",
+      "ext": "",
+      "name": "about",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592883748,
+      "blocks": 0,
+      "atimeMs": 1532522820626.6272,
+      "mtimeMs": 1530701433372.6907,
+      "ctimeMs": 1530701433372.6907,
+      "birthtimeMs": 1530118914056.89,
+      "atime": "2018-07-25T12:47:00.627Z",
+      "mtime": "2018-07-04T10:50:33.373Z",
+      "ctime": "2018-07-04T10:50:33.373Z",
+      "birthtime": "2018-06-27T17:01:54.057Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8c8dfdae1c903e5cb92efc3ce4bfdc77",
+        "type": "Directory",
+        "description": "Directory \"src/pages/blog\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog",
+      "relativePath": "blog",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-07-25T17:44:15.864Z",
+      "accessTime": "2018-07-25T17:44:16.066Z",
+      "changeTime": "2018-07-25T17:44:15.864Z",
+      "birthTime": "2018-07-25T17:44:15.863Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/pages",
+      "base": "blog",
+      "ext": "",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593379327,
+      "blocks": 0,
+      "atimeMs": 1532540656065.8433,
+      "mtimeMs": 1532540655863.6272,
+      "ctimeMs": 1532540655863.6272,
+      "birthtimeMs": 1532540655863.435,
+      "atime": "2018-07-25T17:44:16.066Z",
+      "mtime": "2018-07-25T17:44:15.864Z",
+      "ctime": "2018-07-25T17:44:15.864Z",
+      "birthtime": "2018-07-25T17:44:15.863Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b246465d76cb51062b758b42aba60629",
+        "type": "Directory",
+        "description": "Directory \"src/pages/products\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products",
+      "relativePath": "products",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-06-27T17:01:54.062Z",
+      "accessTime": "2018-07-25T12:47:00.627Z",
+      "changeTime": "2018-06-27T17:01:54.062Z",
+      "birthTime": "2018-06-27T17:01:54.062Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/pages",
+      "base": "products",
+      "ext": "",
+      "name": "products",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592883755,
+      "blocks": 0,
+      "atimeMs": 1532522820626.7324,
+      "mtimeMs": 1530118914061.9766,
+      "ctimeMs": 1530118914061.9766,
+      "birthtimeMs": 1530118914061.8582,
+      "atime": "2018-07-25T12:47:00.627Z",
+      "mtime": "2018-06-27T17:01:54.062Z",
+      "ctime": "2018-06-27T17:01:54.062Z",
+      "birthtime": "2018-06-27T17:01:54.062Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/tags absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/tags absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1ae3b70f5f39c01794e59ac4f0c66d0b",
+        "type": "Directory",
+        "description": "Directory \"src/pages/tags\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/tags",
+      "relativePath": "tags",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-06-27T17:01:54.062Z",
+      "accessTime": "2018-07-25T12:47:00.627Z",
+      "changeTime": "2018-06-27T17:01:54.062Z",
+      "birthTime": "2018-06-27T17:01:54.062Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/pages",
+      "base": "tags",
+      "ext": "",
+      "name": "tags",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592883757,
+      "blocks": 0,
+      "atimeMs": 1532522820626.7822,
+      "mtimeMs": 1530118914062.4197,
+      "ctimeMs": 1530118914062.4197,
+      "birthtimeMs": 1530118914062.322,
+      "atime": "2018-07-25T12:47:00.627Z",
+      "mtime": "2018-06-27T17:01:54.062Z",
+      "ctime": "2018-06-27T17:01:54.062Z",
+      "birthtime": "2018-06-27T17:01:54.062Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/404.js absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d50d9a7e3f04ddcc5ff8d43b6effe79",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 198,
+      "prettySize": "198 B",
+      "modifiedTime": "2018-06-27T17:01:54.055Z",
+      "accessTime": "2018-06-27T17:01:55.236Z",
+      "changeTime": "2018-06-27T17:01:54.055Z",
+      "birthTime": "2018-06-27T17:01:54.055Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592883747,
+      "blocks": 8,
+      "atimeMs": 1530118915236.3584,
+      "mtimeMs": 1530118914055.0852,
+      "ctimeMs": 1530118914055.0852,
+      "birthtimeMs": 1530118914054.911,
+      "atime": "2018-06-27T17:01:55.236Z",
+      "mtime": "2018-06-27T17:01:54.055Z",
+      "ctime": "2018-06-27T17:01:54.055Z",
+      "birthtime": "2018-06-27T17:01:54.055Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about/index.md absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about/index.md absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "41299a74ce479ea1c3cef1630a715a77",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/about/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about/index.md",
+      "relativePath": "about/index.md",
+      "extension": "md",
+      "size": 1590,
+      "prettySize": "1.59 kB",
+      "modifiedTime": "2018-07-04T10:50:33.373Z",
+      "accessTime": "2018-07-04T10:50:33.459Z",
+      "changeTime": "2018-07-04T10:50:33.373Z",
+      "birthTime": "2018-07-04T10:50:33.373Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "about",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593261330,
+      "blocks": 8,
+      "atimeMs": 1530701433459.2732,
+      "mtimeMs": 1530701433372.9119,
+      "ctimeMs": 1530701433372.9119,
+      "birthtimeMs": 1530701433372.681,
+      "atime": "2018-07-04T10:50:33.459Z",
+      "mtime": "2018-07-04T10:50:33.373Z",
+      "ctime": "2018-07-04T10:50:33.373Z",
+      "birthtime": "2018-07-04T10:50:33.373Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/index.js absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f631650a993cd439619dbc37a2359cad",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 6050,
+      "prettySize": "6.05 kB",
+      "modifiedTime": "2018-07-25T18:38:03.047Z",
+      "accessTime": "2018-07-25T18:37:22.544Z",
+      "changeTime": "2018-07-25T18:38:03.047Z",
+      "birthTime": "2018-06-27T17:01:54.061Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592883754,
+      "blocks": 16,
+      "atimeMs": 1532543842543.6814,
+      "mtimeMs": 1532543883047.0664,
+      "ctimeMs": 1532543883047.0664,
+      "birthtimeMs": 1530118914061.3953,
+      "atime": "2018-07-25T18:37:22.544Z",
+      "mtime": "2018-07-25T18:38:03.047Z",
+      "ctime": "2018-07-25T18:38:03.047Z",
+      "birthtime": "2018-06-27T17:01:54.061Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/tags/index.js absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/tags/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b318f473834da87f7db670c25d3c557e",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/tags/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/tags/index.js",
+      "relativePath": "tags/index.js",
+      "extension": "js",
+      "size": 1192,
+      "prettySize": "1.19 kB",
+      "modifiedTime": "2018-06-27T17:01:54.063Z",
+      "accessTime": "2018-06-27T17:01:55.477Z",
+      "changeTime": "2018-06-27T17:01:54.063Z",
+      "birthTime": "2018-06-27T17:01:54.062Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/tags",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "tags",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592883758,
+      "blocks": 8,
+      "atimeMs": 1530118915477.2227,
+      "mtimeMs": 1530118914062.5452,
+      "ctimeMs": 1530118914062.5452,
+      "birthtimeMs": 1530118914062.4119,
+      "atime": "2018-06-27T17:01:55.477Z",
+      "mtime": "2018-06-27T17:01:54.063Z",
+      "ctime": "2018-06-27T17:01:54.063Z",
+      "birthtime": "2018-06-27T17:01:54.062Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products/index.md absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products/index.md absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ee9dd282d33b6fa3ddace5102bd4c509",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/products/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products/index.md",
+      "relativePath": "products/index.md",
+      "extension": "md",
+      "size": 4321,
+      "prettySize": "4.32 kB",
+      "modifiedTime": "2018-06-27T17:01:54.062Z",
+      "accessTime": "2018-06-27T17:01:55.476Z",
+      "changeTime": "2018-06-27T17:01:54.062Z",
+      "birthTime": "2018-06-27T17:01:54.062Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "products",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592883756,
+      "blocks": 16,
+      "atimeMs": 1530118915476.4653,
+      "mtimeMs": 1530118914062.1316,
+      "ctimeMs": 1530118914062.1316,
+      "birthtimeMs": 1530118914061.9692,
+      "atime": "2018-06-27T17:01:55.476Z",
+      "mtime": "2018-06-27T17:01:54.062Z",
+      "ctime": "2018-06-27T17:01:54.062Z",
+      "birthtime": "2018-06-27T17:01:54.062Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products/index.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: 'product-page'\npath: /products\ntitle: Our Coffee\nimage: /img/jumbotron.jpg\nheading: What we offer\ndescription: >-\n  Kaldi is the ultimate spot for coffee lovers who want to learn about their\n  java’s origin and support the farmers that grew it. We take coffee production,\n  roasting and brewing seriously and we’re glad to pass that knowledge to\n  anyone.\nintro:\n  blurbs:\n    - image: /img/coffee.png\n      text: >\n        We sell green and roasted coffee beans that are sourced directly from\n        independent farmers and farm cooperatives. We’re proud to offer a\n        variety of coffee beans grown with great care for the environment and\n        local communities. Check our post or contact us directly for current\n        availability.\n    - image: /img/coffee-gear.png\n      text: >\n        We offer a small, but carefully curated selection of brewing gear and\n        tools for every taste and experience level. No matter if you roast your\n        own beans or just bought your first french press, you’ll find a gadget\n        to fall in love with in our shop.\n    - image: /img/tutorials.png\n      text: >\n        Love a great cup of coffee, but never knew how to make one? Bought a\n        fancy new Chemex but have no clue how to use it? Don't worry, we’re here\n        to help. You can schedule a custom 1-on-1 consultation with our baristas\n        to learn anything you want to know about coffee roasting and brewing.\n        Email us or call the store for details.\n    - image: /img/meeting-space.png\n      text: >\n        We believe that good coffee has the power to bring people together.\n        That’s why we decided to turn a corner of our shop into a cozy meeting\n        space where you can hang out with fellow coffee lovers and learn about\n        coffee making techniques. All of the artwork on display there is for\n        sale. The full price you pay goes to the artist.\n  heading: What we offer\n  description: >\n    Kaldi is the ultimate spot for coffee lovers who want to learn about their\n    java’s origin and support the farmers that grew it. We take coffee\n    production, roasting and brewing seriously and we’re glad to pass that\n    knowledge to anyone. This is an edit via identity...\nmain:\n  heading: Great coffee with no compromises\n  description: >\n    We hold our coffee to the highest standards from the shrub to the cup.\n    That’s why we’re meticulous and transparent about each step of the coffee’s\n    journey. We personally visit each farm to make sure the conditions are\n    optimal for the plants, farmers and the local environment.\n  image1:\n    alt: A close-up of a paper filter filled with ground coffee\n    image: /img/products-grid3.jpg\n  image2:\n    alt: A green cup of a coffee on a wooden table\n    image: /img/products-grid2.jpg\n  image3:\n    alt: Coffee beans\n    image: /img/products-grid1.jpg\ntestimonials:\n  - author: Elisabeth Kaurismäki\n    quote: >-\n      The first time I tried Kaldi’s coffee, I couldn’t even believe that was\n      the same thing I’ve been drinking every morning.\n  - author: Philipp Trommler\n    quote: >-\n      Kaldi is the place to go if you want the best quality coffee. I love their\n      stance on empowering farmers and transparency.\nfull_image: /img/products-full-width.jpg\npricing:\n  heading: Monthly subscriptions\n  description: >-\n    We make it easy to make great coffee a part of your life. Choose one of our\n    monthly subscription plans to receive great coffee at your doorstep each\n    month. Contact us about more details and payment info.\n  plans:\n    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.\n      items:\n        - 3 lbs of coffee per month\n        - Green or roasted beans\"\n        - One or two varieties of beans\"\n      plan: Small\n      price: '50'\n    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'\n      items:\n        - 6 lbs of coffee per month\n        - Green or roasted beans\n        - Up to 4 different varieties of beans\n      plan: Big\n      price: '80'\n    - description: Want a few tiny batches from different varieties? Try our custom plan\n      items:\n        - Whatever you need\n        - Green or roasted beans\n        - Unlimited varieties\n      plan: Custom\n      price: '??'\n---\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "1101bcf7c433bfd7e2ddbe0209942613",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Our Coffee",
+        "templateKey": "product-page",
+        "path": "/products",
+        "image": "/img/jumbotron.jpg",
+        "heading": "What we offer",
+        "description": "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone.",
+        "intro": {
+          "blurbs": [
+            {
+              "image": "/img/coffee.png",
+              "text": "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability.\n"
+            },
+            {
+              "image": "/img/coffee-gear.png",
+              "text": "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop.\n"
+            },
+            {
+              "image": "/img/tutorials.png",
+              "text": "Love a great cup of coffee, but never knew how to make one? Bought a fancy new Chemex but have no clue how to use it? Don't worry, we’re here to help. You can schedule a custom 1-on-1 consultation with our baristas to learn anything you want to know about coffee roasting and brewing. Email us or call the store for details.\n"
+            },
+            {
+              "image": "/img/meeting-space.png",
+              "text": "We believe that good coffee has the power to bring people together. That’s why we decided to turn a corner of our shop into a cozy meeting space where you can hang out with fellow coffee lovers and learn about coffee making techniques. All of the artwork on display there is for sale. The full price you pay goes to the artist.\n"
+            }
+          ],
+          "heading": "What we offer",
+          "description": "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone. This is an edit via identity...\n"
+        },
+        "main": {
+          "heading": "Great coffee with no compromises",
+          "description": "We hold our coffee to the highest standards from the shrub to the cup. That’s why we’re meticulous and transparent about each step of the coffee’s journey. We personally visit each farm to make sure the conditions are optimal for the plants, farmers and the local environment.\n",
+          "image1": {
+            "alt": "A close-up of a paper filter filled with ground coffee",
+            "image": "/img/products-grid3.jpg"
+          },
+          "image2": {
+            "alt": "A green cup of a coffee on a wooden table",
+            "image": "/img/products-grid2.jpg"
+          },
+          "image3": {
+            "alt": "Coffee beans",
+            "image": "/img/products-grid1.jpg"
+          }
+        },
+        "testimonials": [
+          {
+            "author": "Elisabeth Kaurismäki",
+            "quote": "The first time I tried Kaldi’s coffee, I couldn’t even believe that was the same thing I’ve been drinking every morning."
+          },
+          {
+            "author": "Philipp Trommler",
+            "quote": "Kaldi is the place to go if you want the best quality coffee. I love their stance on empowering farmers and transparency."
+          }
+        ],
+        "full_image": "/img/products-full-width.jpg",
+        "pricing": {
+          "heading": "Monthly subscriptions",
+          "description": "We make it easy to make great coffee a part of your life. Choose one of our monthly subscription plans to receive great coffee at your doorstep each month. Contact us about more details and payment info.",
+          "plans": [
+            {
+              "description": "Perfect for the drinker who likes to enjoy 1-2 cups per day.",
+              "items": [
+                "3 lbs of coffee per month",
+                "Green or roasted beans\"",
+                "One or two varieties of beans\""
+              ],
+              "plan": "Small",
+              "price": "50"
+            },
+            {
+              "description": "Great for avid drinkers, java-loving couples and bigger crowds",
+              "items": [
+                "6 lbs of coffee per month",
+                "Green or roasted beans",
+                "Up to 4 different varieties of beans"
+              ],
+              "plan": "Big",
+              "price": "80"
+            },
+            {
+              "description": "Want a few tiny batches from different varieties? Try our custom plan",
+              "items": [
+                "Whatever you need",
+                "Green or roasted beans",
+                "Unlimited varieties"
+              ],
+              "plan": "Custom",
+              "price": "??"
+            }
+          ]
+        },
+        "_PARENT": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products/index.md absPath of file",
+        "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products/index.md",
+      "fields": {
+        "slug": "/products/"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9f357a4973684ceb73947e3ea4d20c5c",
+        "type": "Directory",
+        "description": "Directory \"src/img\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "relativePath": "",
+      "extension": "",
+      "size": 384,
+      "prettySize": "384 B",
+      "modifiedTime": "2018-07-03T15:45:02.039Z",
+      "accessTime": "2018-07-25T12:47:00.652Z",
+      "changeTime": "2018-07-03T15:45:02.039Z",
+      "birthTime": "2018-06-27T17:01:54.045Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src",
+      "base": "img",
+      "ext": "",
+      "name": "img",
+      "relativeDirectory": "..",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 12,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592883740,
+      "blocks": 0,
+      "atimeMs": 1532522820651.52,
+      "mtimeMs": 1530632702039.2703,
+      "ctimeMs": 1530632702039.2703,
+      "birthtimeMs": 1530118914045.4556,
+      "atime": "2018-07-25T12:47:00.652Z",
+      "mtime": "2018-07-03T15:45:02.039Z",
+      "ctime": "2018-07-03T15:45:02.039Z",
+      "birthtime": "2018-06-27T17:01:54.045Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/github-icon.svg absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/github-icon.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9e6df2f4ff081c07a8799e9fa2f3ec90",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "description": "File \"src/img/github-icon.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/github-icon.svg",
+      "relativePath": "github-icon.svg",
+      "extension": "svg",
+      "size": 2694,
+      "prettySize": "2.69 kB",
+      "modifiedTime": "2018-06-27T17:01:54.046Z",
+      "accessTime": "2018-06-27T17:01:55.047Z",
+      "changeTime": "2018-06-27T17:01:54.046Z",
+      "birthTime": "2018-06-27T17:01:54.046Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "github-icon.svg",
+      "ext": ".svg",
+      "name": "github-icon",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592883741,
+      "blocks": 8,
+      "atimeMs": 1530118915047.498,
+      "mtimeMs": 1530118914046.2673,
+      "ctimeMs": 1530118914046.2673,
+      "birthtimeMs": 1530118914046.0593,
+      "atime": "2018-06-27T17:01:55.047Z",
+      "mtime": "2018-06-27T17:01:54.046Z",
+      "ctime": "2018-06-27T17:01:54.046Z",
+      "birthtime": "2018-06-27T17:01:54.046Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo.svg absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b060b68d0b9204f8eb5658fc5129fd8f",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "description": "File \"src/img/logo.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo.svg",
+      "relativePath": "logo.svg",
+      "extension": "svg",
+      "size": 1962,
+      "prettySize": "1.96 kB",
+      "modifiedTime": "2018-06-27T17:01:54.049Z",
+      "accessTime": "2018-06-27T17:01:55.127Z",
+      "changeTime": "2018-06-27T17:01:54.049Z",
+      "birthTime": "2018-06-27T17:01:54.049Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "logo.svg",
+      "ext": ".svg",
+      "name": "logo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8592883742,
+      "blocks": 8,
+      "atimeMs": 1530118915126.7505,
+      "mtimeMs": 1530118914049.0725,
+      "ctimeMs": 1530118914049.0725,
+      "birthtimeMs": 1530118914048.9421,
+      "atime": "2018-06-27T17:01:55.127Z",
+      "mtime": "2018-06-27T17:01:54.049Z",
+      "ctime": "2018-06-27T17:01:54.049Z",
+      "birthtime": "2018-06-27T17:01:54.049Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/GlasgowHandballLogo.png absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/GlasgowHandballLogo.png absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/img/GlasgowHandballLogo.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0a1803b986cf3579262d8757b2e896d4",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/img/GlasgowHandballLogo.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/GlasgowHandballLogo.png",
+      "relativePath": "GlasgowHandballLogo.png",
+      "extension": "png",
+      "size": 374255,
+      "prettySize": "374 kB",
+      "modifiedTime": "2014-09-26T23:55:16.000Z",
+      "accessTime": "2018-06-29T15:48:25.976Z",
+      "changeTime": "2018-06-29T15:49:03.820Z",
+      "birthTime": "2014-09-26T23:50:41.000Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "GlasgowHandballLogo.png",
+      "ext": ".png",
+      "name": "GlasgowHandballLogo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593232422,
+      "blocks": 736,
+      "atimeMs": 1530287305975.6428,
+      "mtimeMs": 1411775716000,
+      "ctimeMs": 1530287343819.5632,
+      "birthtimeMs": 1411775441000,
+      "atime": "2018-06-29T15:48:25.976Z",
+      "mtime": "2014-09-26T23:55:16.000Z",
+      "ctime": "2018-06-29T15:49:03.820Z",
+      "birthtime": "2014-09-26T23:50:41.000Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/GlasgowHandballLogo.png absPath of file >> ImageSharp": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/GlasgowHandballLogo.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/img/GlasgowHandballLogo.png absPath of file",
+      "internal": {
+        "contentDigest": "0a1803b986cf3579262d8757b2e896d4",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/GlasgowHandballHeader.png absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/GlasgowHandballHeader.png absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/img/GlasgowHandballHeader.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a1c9b30395bd691718e8d2ce679b4613",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/img/GlasgowHandballHeader.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/GlasgowHandballHeader.png",
+      "relativePath": "GlasgowHandballHeader.png",
+      "extension": "png",
+      "size": 16441,
+      "prettySize": "16.4 kB",
+      "modifiedTime": "2014-10-06T18:02:09.000Z",
+      "accessTime": "2018-06-29T15:50:36.718Z",
+      "changeTime": "2018-06-29T15:50:42.880Z",
+      "birthTime": "2014-10-05T16:38:28.000Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "GlasgowHandballHeader.png",
+      "ext": ".png",
+      "name": "GlasgowHandballHeader",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593232480,
+      "blocks": 40,
+      "atimeMs": 1530287436718.0752,
+      "mtimeMs": 1412618529000,
+      "ctimeMs": 1530287442879.544,
+      "birthtimeMs": 1412527108000,
+      "atime": "2018-06-29T15:50:36.718Z",
+      "mtime": "2014-10-06T18:02:09.000Z",
+      "ctime": "2018-06-29T15:50:42.880Z",
+      "birthtime": "2014-10-05T16:38:28.000Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/GlasgowHandballHeader.png absPath of file >> ImageSharp": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/GlasgowHandballHeader.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/img/GlasgowHandballHeader.png absPath of file",
+      "internal": {
+        "contentDigest": "a1c9b30395bd691718e8d2ce679b4613",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/maillot.jpg absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/maillot.jpg absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/img/maillot.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "09d3ea8737de46cad35cee9f315658b3",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/img/maillot.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/maillot.jpg",
+      "relativePath": "maillot.jpg",
+      "extension": "jpg",
+      "size": 879673,
+      "prettySize": "880 kB",
+      "modifiedTime": "2015-02-15T20:30:42.000Z",
+      "accessTime": "2018-06-29T16:02:40.810Z",
+      "changeTime": "2018-06-29T16:02:40.506Z",
+      "birthTime": "2015-02-15T20:30:41.000Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "maillot.jpg",
+      "ext": ".jpg",
+      "name": "maillot",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 36837428,
+      "blocks": 1864,
+      "atimeMs": 1530288160810.144,
+      "mtimeMs": 1424032242000,
+      "ctimeMs": 1530288160505.8252,
+      "birthtimeMs": 1424032241000,
+      "atime": "2018-06-29T16:02:40.810Z",
+      "mtime": "2015-02-15T20:30:42.000Z",
+      "ctime": "2018-06-29T16:02:40.506Z",
+      "birthtime": "2015-02-15T20:30:41.000Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/maillot.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/maillot.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/img/maillot.jpg absPath of file",
+      "internal": {
+        "contentDigest": "09d3ea8737de46cad35cee9f315658b3",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/maillot2.jpg absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/maillot2.jpg absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/img/maillot2.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "97060c8b12c16b9e04beb5c1f50128f3",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/img/maillot2.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/maillot2.jpg",
+      "relativePath": "maillot2.jpg",
+      "extension": "jpg",
+      "size": 506752,
+      "prettySize": "507 kB",
+      "modifiedTime": "2018-06-29T16:06:42.683Z",
+      "accessTime": "2018-06-29T16:07:12.787Z",
+      "changeTime": "2018-06-29T16:07:12.758Z",
+      "birthTime": "2015-02-15T20:30:41.000Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "maillot2.jpg",
+      "ext": ".jpg",
+      "name": "maillot2",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33152,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593234210,
+      "blocks": 1136,
+      "atimeMs": 1530288432787.3381,
+      "mtimeMs": 1530288402683.3474,
+      "ctimeMs": 1530288432758.3713,
+      "birthtimeMs": 1424032241000,
+      "atime": "2018-06-29T16:07:12.787Z",
+      "mtime": "2018-06-29T16:06:42.683Z",
+      "ctime": "2018-06-29T16:07:12.758Z",
+      "birthtime": "2015-02-15T20:30:41.000Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/maillot2.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/maillot2.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/img/maillot2.jpg absPath of file",
+      "internal": {
+        "contentDigest": "97060c8b12c16b9e04beb5c1f50128f3",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/ball.afdesign absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/ball.afdesign absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0cf38ea057dfa15eddc0c4114c29cae8",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/img/ball.afdesign\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/ball.afdesign",
+      "relativePath": "ball.afdesign",
+      "extension": "afdesign",
+      "size": 31223,
+      "prettySize": "31.2 kB",
+      "modifiedTime": "2018-07-03T15:48:27.234Z",
+      "accessTime": "2018-07-03T15:48:27.233Z",
+      "changeTime": "2018-07-03T15:48:27.234Z",
+      "birthTime": "2018-07-01T19:13:21.756Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "ball.afdesign",
+      "ext": ".afdesign",
+      "name": "ball",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593248749,
+      "blocks": 64,
+      "atimeMs": 1530632907233.2134,
+      "mtimeMs": 1530632907233.5781,
+      "ctimeMs": 1530632907233.5781,
+      "birthtimeMs": 1530472401756.4392,
+      "atime": "2018-07-03T15:48:27.233Z",
+      "mtime": "2018-07-03T15:48:27.234Z",
+      "ctime": "2018-07-03T15:48:27.234Z",
+      "birthtime": "2018-07-01T19:13:21.756Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/ball.png absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/ball.png absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/img/ball.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d8fda7b58d45a0e0890d7d7a8f386c58",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/img/ball.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/ball.png",
+      "relativePath": "ball.png",
+      "extension": "png",
+      "size": 14293,
+      "prettySize": "14.3 kB",
+      "modifiedTime": "2018-07-03T15:50:01.776Z",
+      "accessTime": "2018-07-03T15:50:01.980Z",
+      "changeTime": "2018-07-03T15:50:02.283Z",
+      "birthTime": "2018-07-01T19:14:08.115Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "ball.png",
+      "ext": ".png",
+      "name": "ball",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593248787,
+      "blocks": 32,
+      "atimeMs": 1530633001980.155,
+      "mtimeMs": 1530633001775.6836,
+      "ctimeMs": 1530633002282.9475,
+      "birthtimeMs": 1530472448114.9065,
+      "atime": "2018-07-03T15:50:01.980Z",
+      "mtime": "2018-07-03T15:50:01.776Z",
+      "ctime": "2018-07-03T15:50:02.283Z",
+      "birthtime": "2018-07-01T19:14:08.115Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/goal_aborted.afdesign absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/goal_aborted.afdesign absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9283ec84ed347d2ee83471673db0cb22",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/img/goal_aborted.afdesign\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/goal_aborted.afdesign",
+      "relativePath": "goal_aborted.afdesign",
+      "extension": "afdesign",
+      "size": 28277,
+      "prettySize": "28.3 kB",
+      "modifiedTime": "2018-07-03T15:14:02.668Z",
+      "accessTime": "2018-07-03T15:14:02.668Z",
+      "changeTime": "2018-07-03T15:14:02.785Z",
+      "birthTime": "2018-07-03T15:14:02.612Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "goal_aborted.afdesign",
+      "ext": ".afdesign",
+      "name": "goal_aborted",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593250898,
+      "blocks": 56,
+      "atimeMs": 1530630842668.453,
+      "mtimeMs": 1530630842668.453,
+      "ctimeMs": 1530630842784.924,
+      "birthtimeMs": 1530630842612.1018,
+      "atime": "2018-07-03T15:14:02.668Z",
+      "mtime": "2018-07-03T15:14:02.668Z",
+      "ctime": "2018-07-03T15:14:02.785Z",
+      "birthtime": "2018-07-03T15:14:02.612Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/training_board.png absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/training_board.png absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/img/training_board.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7cab58197bf15647a59cb5129c375d35",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/img/training_board.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/training_board.png",
+      "relativePath": "training_board.png",
+      "extension": "png",
+      "size": 4377,
+      "prettySize": "4.38 kB",
+      "modifiedTime": "2018-07-03T15:53:09.293Z",
+      "accessTime": "2018-07-03T15:53:09.394Z",
+      "changeTime": "2018-07-03T15:53:09.804Z",
+      "birthTime": "2018-07-03T15:45:02.039Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "training_board.png",
+      "ext": ".png",
+      "name": "training_board",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593251747,
+      "blocks": 16,
+      "atimeMs": 1530633189393.7583,
+      "mtimeMs": 1530633189292.769,
+      "ctimeMs": 1530633189803.7197,
+      "birthtimeMs": 1530632702039.2578,
+      "atime": "2018-07-03T15:53:09.394Z",
+      "mtime": "2018-07-03T15:53:09.293Z",
+      "ctime": "2018-07-03T15:53:09.804Z",
+      "birthtime": "2018-07-03T15:45:02.039Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/ball.png absPath of file >> ImageSharp": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/ball.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/img/ball.png absPath of file",
+      "internal": {
+        "contentDigest": "d8fda7b58d45a0e0890d7d7a8f386c58",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/training_board.png absPath of file >> ImageSharp": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/training_board.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/img/training_board.png absPath of file",
+      "internal": {
+        "contentDigest": "7cab58197bf15647a59cb5129c375d35",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about/index.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: about-page\ntitle: About our values\n---\n### Club History\n\nThe Glasgow Handball Club was founded in the September of 2000 by Alasdair \"Baba\" Anderson and Kepa Mendibil and was one of the founder teams of the new Scottish Handball League. Glasgow HC started with only a men's team of 10 players. We have now grown to a Men's and Ladies section of over 30 players and will continue to grow. Glasgow players and coaches come from many European countries and have many years of experience and great passion for handball. Our mission is to grow handball in Glasgow and to sustain male and female handball teams in different age groups, taking part in the Scottish league and international tournaments.\n\n### Club Board\n\n* Chairman – Danos Sagias\n* Treasurer – Andy Burns\n* Secretary – Francisco Cuellar\n* Women`s coaches – Andy Burns, Marta Pieszko\n* Men’s coaches – Josef Camilleri, Sebastian Bachmann\n\n### How to contact us\n\n<a class=\"icon\" target=\"_blank\" title=\"Follow us on Facebook \" href=\"https://www.facebook.com/Glasgow.Handball.Club\" style=\"margin-right: 10px;\"><img alt=\"Follow us on Facebook\" src=\"/img/facebook.png\" border=0 height=\"80\" width=\"80\"></a><a class=\"icon\" target=\"_blank\" title=\"Send us a mail\" href=\"mailto:handball.glasgow@gmail.com\" style=\"margin-right: 10px;\"><img alt=\"Send us a mail\" src=\"/img/mail.png\" border=0 height=\"75\" width=\"75\"></a><a class=\"icon\" target=\"_blank\" title=\"Follow us on Twitter\" href=\"https://twitter.com/glasgowhandball\"><img alt=\"Follow us on Twitter\" src=\"/img/twitter.png\" border=0 height=\"75\" width=\"75\"></a>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "491a79a00cd858f36b88367980dd0b7c",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About our values",
+        "templateKey": "about-page",
+        "_PARENT": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about/index.md absPath of file",
+        "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "### Club History\n\nThe Glasgow Handball Club was founded in the September of 2000 by Alasdair \"Baba\" Anderson and Kepa Mendibil and was one of the founder teams of the new Scottish Handball League. Glasgow HC started with only a men's team of 10 players. We have now grown to a Men's and Ladies section of over 30 players and will continue to grow. Glasgow players and coaches come from many European countries and have many years of experience and great passion for handball. Our mission is to grow handball in Glasgow and to sustain male and female handball teams in different age groups, taking part in the Scottish league and international tournaments.\n\n### Club Board\n\n* Chairman – Danos Sagias\n* Treasurer – Andy Burns\n* Secretary – Francisco Cuellar\n* Women`s coaches – Andy Burns, Marta Pieszko\n* Men’s coaches – Josef Camilleri, Sebastian Bachmann\n\n### How to contact us\n\n<a class=\"icon\" target=\"_blank\" title=\"Follow us on Facebook \" href=\"https://www.facebook.com/Glasgow.Handball.Club\" style=\"margin-right: 10px;\"><img alt=\"Follow us on Facebook\" src=\"/img/facebook.png\" border=0 height=\"80\" width=\"80\"></a><a class=\"icon\" target=\"_blank\" title=\"Send us a mail\" href=\"mailto:handball.glasgow@gmail.com\" style=\"margin-right: 10px;\"><img alt=\"Send us a mail\" src=\"/img/mail.png\" border=0 height=\"75\" width=\"75\"></a><a class=\"icon\" target=\"_blank\" title=\"Follow us on Twitter\" href=\"https://twitter.com/glasgowhandball\"><img alt=\"Follow us on Twitter\" src=\"/img/twitter.png\" border=0 height=\"75\" width=\"75\"></a>\n",
+      "fileAbsolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about/index.md",
+      "fields": {
+        "slug": "/about/"
+      }
+    },
+    "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/": {
+      "layout": "index",
+      "jsonName": "blog-2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.json",
+      "internalComponentName": "ComponentBlog20161217MakingSenseOfTheScaasNewFlavorWheel",
+      "path": "/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/blog-post.js",
+      "id": "SitePage /blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "10892667c1c8871aef4a25cba9a43e9f",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/": {
+      "layout": "index",
+      "jsonName": "blog-2017-01-04-a-beginners-guide-to-brewing-with-chemex.json",
+      "internalComponentName": "ComponentBlog20170104ABeginnersGuideToBrewingWithChemex",
+      "path": "/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/blog-post.js",
+      "id": "SitePage /blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "38f6a8ce986402a0bb4bc824f9e9832b",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/": {
+      "layout": "index",
+      "jsonName": "blog-2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.json",
+      "internalComponentName": "ComponentBlog20170104JustInSmallBatchOfJamaicanBlueMountainInStoreNextWeek",
+      "path": "/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/blog-post.js",
+      "id": "SitePage /blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "581bef9aa94a0f0b794564a399df7c43",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /products/": {
+      "layout": "index",
+      "jsonName": "products.json",
+      "internalComponentName": "ComponentProducts",
+      "path": "/products/",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/product-page.js",
+      "componentChunkName": "component---src-templates-product-page-js",
+      "context": {
+        "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products/index.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/product-page.js",
+      "id": "SitePage /products/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8055bf7469c3e5794f04f8e250bbf69b",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/about-page.js",
+      "componentChunkName": "component---src-templates-about-page-js",
+      "context": {
+        "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about/index.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/about-page.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3e66b607bbd4e851704f407f1db81780",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/flavor/": {
+      "layout": "index",
+      "jsonName": "tags-flavor.json",
+      "internalComponentName": "ComponentTagsFlavor",
+      "path": "/tags/flavor/",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "flavor"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/tags.js",
+      "id": "SitePage /tags/flavor/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "dee2700aea4ca795860c0a6a658c5d22",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/tasting/": {
+      "layout": "index",
+      "jsonName": "tags-tasting.json",
+      "internalComponentName": "ComponentTagsTasting",
+      "path": "/tags/tasting/",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "tasting"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/tags.js",
+      "id": "SitePage /tags/tasting/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d9a14d249a83f31f2a7932b7a3bab33d",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/brewing/": {
+      "layout": "index",
+      "jsonName": "tags-brewing.json",
+      "internalComponentName": "ComponentTagsBrewing",
+      "path": "/tags/brewing/",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "brewing"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/tags.js",
+      "id": "SitePage /tags/brewing/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8760c6bd9e64648d983c3847b980a20d",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/chemex/": {
+      "layout": "index",
+      "jsonName": "tags-chemex.json",
+      "internalComponentName": "ComponentTagsChemex",
+      "path": "/tags/chemex/",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "chemex"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/tags.js",
+      "id": "SitePage /tags/chemex/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8789048ac4d425760b4c91e889bc1791",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/jamaica/": {
+      "layout": "index",
+      "jsonName": "tags-jamaica.json",
+      "internalComponentName": "ComponentTagsJamaica",
+      "path": "/tags/jamaica/",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "jamaica"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/tags.js",
+      "id": "SitePage /tags/jamaica/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e6afec864cdfe2ef7fcb57b704f2c6a8",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/green-beans/": {
+      "layout": "index",
+      "jsonName": "tags-green-beans.json",
+      "internalComponentName": "ComponentTagsGreenBeans",
+      "path": "/tags/green-beans/",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/tags.js",
+      "componentChunkName": "component---src-templates-tags-js",
+      "context": {
+        "tag": "green beans"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/src/templates/tags.js",
+      "id": "SitePage /tags/green-beans/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "12a54d724d84a93622d72557a20aed37",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2cab926a274d02ef613e5d281831381b",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "48b5a867e0e7a8953a0e715ce5d0a066",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /tags/": {
+      "layout": "index",
+      "jsonName": "tags.json",
+      "internalComponentName": "ComponentTags",
+      "path": "/tags/",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/tags/index.js",
+      "componentChunkName": "component---src-pages-tags-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/tags/index.js",
+      "id": "SitePage /tags/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "eca024ca11fe33522d5e659ccbda6486",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3fc8d80d6a61aed1cdfcd09ea70e290b",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2018-07-25-british-champions.md absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2018-07-25-british-champions.md absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2018-07-25-british-champions.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "99ac34442f0d01e08c7a76fdf3fc8d1c",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/blog/2018-07-25-british-champions.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2018-07-25-british-champions.md",
+      "relativePath": "blog/2018-07-25-british-champions.md",
+      "extension": "md",
+      "size": 1967,
+      "prettySize": "1.97 kB",
+      "modifiedTime": "2018-07-25T17:44:15.864Z",
+      "accessTime": "2018-07-25T17:44:16.069Z",
+      "changeTime": "2018-07-25T17:44:15.864Z",
+      "birthTime": "2018-07-25T17:44:15.864Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog",
+      "base": "2018-07-25-british-champions.md",
+      "ext": ".md",
+      "name": "2018-07-25-british-champions",
+      "relativeDirectory": "blog",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593379328,
+      "blocks": 8,
+      "atimeMs": 1532540656068.9868,
+      "mtimeMs": 1532540655864.4556,
+      "ctimeMs": 1532540655864.4556,
+      "birthtimeMs": 1532540655863.6191,
+      "atime": "2018-07-25T17:44:16.069Z",
+      "mtime": "2018-07-25T17:44:15.864Z",
+      "ctime": "2018-07-25T17:44:15.864Z",
+      "birthtime": "2018-07-25T17:44:15.864Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2018-07-25-british-champions.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2018-07-25-british-champions.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2018-07-25-british-champions.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: blog-post\ntitle: British Champions!\ndate: '2018-07-25T19:24:02+02:00'\ndescription: Glasgow handball men's team finished the season in style!\ntags:\n  - British champions\n  - Treble\n---\n![Team photo GHC](/img/glasgow-hc-team-photo.jpg)\n\nHere is an extract from the British handball news, full article available [here](https://www.britishhandball.com/news/glasgow-win-2018-british-championship-play). \n\nScottish champions Glasgow came from behind to defeat Livingston 31-26 in this weekend’s final of the British Handball Championship play-offs.\n\nThe result sees Glasgow complete the treble of Scottish league and cup, and British Championship titles.\n\nLivingston and Glasgow kept pace with each other in the early exchanges with the score 9-8 after 20 minutes. However, a 3-1 exchange saw Livingston pull away to lead 15-12 at half time. Livingston kept-up the pace after the break increasing their lead to 21-17. Glasgow came surging back as Livingston’s attack faltered and with 10minutes to go the scores were level at 22-22. Glasgow now had the initiative and although Livingston fought bravely to the end, Glasgow finished stronger and won 31-26 to become 2018 British Champions. Livingston’s Ross Strachan was the final’s top scorer with 12 goals, while Gabriel Fernandez top scorer for Glasgow as he beat the keeper nine times.\n\nThe event brought together Glasgow, and second-place Scottish side Livingston, along with English champions London GD and runners-up Olympia.\n\nOn Saturday, in the first semi-final, Glasgow set the pace from the beginning, as Olympia’s finishing in front of goal let them down. However, at half-time the London club still only trailed 12-15. In a heated second half, Glasgow pulled away, helped by numerous suspensions for Olympia and established control on the game, going on to win 30-22. Michael Thomas top-scored for Glasgow with seven goals, while Carlos Navarro replied with five strikes for Olympia.\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "74cd0a4863054d48c00af54fa62dc04b",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "British Champions!",
+        "templateKey": "blog-post",
+        "date": "2018-07-25T19:24:02+02:00",
+        "description": "Glasgow handball men's team finished the season in style!",
+        "tags": [
+          "British champions",
+          "Treble"
+        ],
+        "_PARENT": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2018-07-25-british-champions.md absPath of file",
+        "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2018-07-25-british-champions.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "![Team photo GHC](/img/glasgow-hc-team-photo.jpg)\n\nHere is an extract from the British handball news, full article available [here](https://www.britishhandball.com/news/glasgow-win-2018-british-championship-play). \n\nScottish champions Glasgow came from behind to defeat Livingston 31-26 in this weekend’s final of the British Handball Championship play-offs.\n\nThe result sees Glasgow complete the treble of Scottish league and cup, and British Championship titles.\n\nLivingston and Glasgow kept pace with each other in the early exchanges with the score 9-8 after 20 minutes. However, a 3-1 exchange saw Livingston pull away to lead 15-12 at half time. Livingston kept-up the pace after the break increasing their lead to 21-17. Glasgow came surging back as Livingston’s attack faltered and with 10minutes to go the scores were level at 22-22. Glasgow now had the initiative and although Livingston fought bravely to the end, Glasgow finished stronger and won 31-26 to become 2018 British Champions. Livingston’s Ross Strachan was the final’s top scorer with 12 goals, while Gabriel Fernandez top scorer for Glasgow as he beat the keeper nine times.\n\nThe event brought together Glasgow, and second-place Scottish side Livingston, along with English champions London GD and runners-up Olympia.\n\nOn Saturday, in the first semi-final, Glasgow set the pace from the beginning, as Olympia’s finishing in front of goal let them down. However, at half-time the London club still only trailed 12-15. In a heated second half, Glasgow pulled away, helped by numerous suspensions for Olympia and established control on the game, going on to win 30-22. Michael Thomas top-scored for Glasgow with seven goals, while Carlos Navarro replied with five strikes for Olympia.\n",
+      "fileAbsolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2018-07-25-british-champions.md",
+      "fields": {
+        "slug": "/blog/2018-07-25-british-champions/"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/kris_sport_therapy.png absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/kris_sport_therapy.png absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/img/kris_sport_therapy.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ba86849f0beb7923fd14c5f48cd6bb7e",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/img/kris_sport_therapy.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/kris_sport_therapy.png",
+      "relativePath": "kris_sport_therapy.png",
+      "extension": "png",
+      "size": 6460,
+      "prettySize": "6.46 kB",
+      "modifiedTime": "2018-07-25T17:59:45.751Z",
+      "accessTime": "2018-07-25T18:01:25.095Z",
+      "changeTime": "2018-07-25T18:01:28.058Z",
+      "birthTime": "2018-07-25T17:59:45.751Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "kris_sport_therapy.png",
+      "ext": ".png",
+      "name": "kris_sport_therapy",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33152,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593379840,
+      "blocks": 16,
+      "atimeMs": 1532541685095.2068,
+      "mtimeMs": 1532541585751.488,
+      "ctimeMs": 1532541688058.3982,
+      "birthtimeMs": 1532541585751.2668,
+      "atime": "2018-07-25T18:01:25.095Z",
+      "mtime": "2018-07-25T17:59:45.751Z",
+      "ctime": "2018-07-25T18:01:28.058Z",
+      "birthtime": "2018-07-25T17:59:45.751Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/kris_sport_therapy.png absPath of file >> ImageSharp": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/kris_sport_therapy.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/img/kris_sport_therapy.png absPath of file",
+      "internal": {
+        "contentDigest": "ba86849f0beb7923fd14c5f48cd6bb7e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo_energo.png absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo_energo.png absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo_energo.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "317cda278ef176095b43b4d3ca73cb4f",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/img/logo_energo.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo_energo.png",
+      "relativePath": "logo_energo.png",
+      "extension": "png",
+      "size": 31445,
+      "prettySize": "31.4 kB",
+      "modifiedTime": "2018-07-25T18:27:50.755Z",
+      "accessTime": "2018-07-25T18:17:48.853Z",
+      "changeTime": "2018-07-25T18:27:51.237Z",
+      "birthTime": "2018-07-25T18:16:43.986Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "logo_energo.png",
+      "ext": ".png",
+      "name": "logo_energo",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593380271,
+      "blocks": 64,
+      "atimeMs": 1532542668853.49,
+      "mtimeMs": 1532543270755.124,
+      "ctimeMs": 1532543271236.8564,
+      "birthtimeMs": 1532542603985.559,
+      "atime": "2018-07-25T18:17:48.853Z",
+      "mtime": "2018-07-25T18:27:50.755Z",
+      "ctime": "2018-07-25T18:27:51.237Z",
+      "birthtime": "2018-07-25T18:16:43.986Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo_energo.jpg absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo_energo.jpg absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo_energo.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b337177256678e14262d40ed3c8ec332",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/img/logo_energo.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo_energo.jpg",
+      "relativePath": "logo_energo.jpg",
+      "extension": "jpg",
+      "size": 15152,
+      "prettySize": "15.2 kB",
+      "modifiedTime": "2018-07-25T17:57:17.938Z",
+      "accessTime": "2018-07-25T18:16:38.108Z",
+      "changeTime": "2018-07-25T18:16:52.148Z",
+      "birthTime": "2018-07-25T17:57:17.938Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "logo_energo.jpg",
+      "ext": ".jpg",
+      "name": "logo_energo",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33152,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593379766,
+      "blocks": 32,
+      "atimeMs": 1532542598108.1177,
+      "mtimeMs": 1532541437938.3645,
+      "ctimeMs": 1532542612147.6357,
+      "birthtimeMs": 1532541437938.1787,
+      "atime": "2018-07-25T18:16:38.108Z",
+      "mtime": "2018-07-25T17:57:17.938Z",
+      "ctime": "2018-07-25T18:16:52.148Z",
+      "birthtime": "2018-07-25T17:57:17.938Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo_energo.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo_energo.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo_energo.jpg absPath of file",
+      "internal": {
+        "contentDigest": "b337177256678e14262d40ed3c8ec332",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo_energo.png absPath of file >> ImageSharp": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo_energo.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/img/logo_energo.png absPath of file",
+      "internal": {
+        "contentDigest": "317cda278ef176095b43b4d3ca73cb4f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/british_handball.jpg absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/british_handball.jpg absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/img/british_handball.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "815228c8f6bf9a89c278b4600966b26e",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/img/british_handball.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/british_handball.jpg",
+      "relativePath": "british_handball.jpg",
+      "extension": "jpg",
+      "size": 38168,
+      "prettySize": "38.2 kB",
+      "modifiedTime": "2018-07-25T18:24:07.100Z",
+      "accessTime": "2018-07-25T18:28:22.003Z",
+      "changeTime": "2018-07-25T18:28:20.987Z",
+      "birthTime": "2018-07-25T18:24:07.100Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "british_handball.jpg",
+      "ext": ".jpg",
+      "name": "british_handball",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33152,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593380578,
+      "blocks": 80,
+      "atimeMs": 1532543302003.3743,
+      "mtimeMs": 1532543047099.7122,
+      "ctimeMs": 1532543300987.3289,
+      "birthtimeMs": 1532543047099.504,
+      "atime": "2018-07-25T18:28:22.003Z",
+      "mtime": "2018-07-25T18:24:07.100Z",
+      "ctime": "2018-07-25T18:28:20.987Z",
+      "birthtime": "2018-07-25T18:24:07.100Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/british_handball.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/british_handball.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/img/british_handball.jpg absPath of file",
+      "internal": {
+        "contentDigest": "815228c8f6bf9a89c278b4600966b26e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/british_handball.png absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/british_handball.png absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/img/british_handball.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "62f82139b33640cc3ddfa0a8c6b7b42c",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/img/british_handball.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/british_handball.png",
+      "relativePath": "british_handball.png",
+      "extension": "png",
+      "size": 33619,
+      "prettySize": "33.6 kB",
+      "modifiedTime": "2018-07-25T18:42:31.199Z",
+      "accessTime": "2018-07-25T18:42:31.496Z",
+      "changeTime": "2018-07-25T18:42:31.739Z",
+      "birthTime": "2018-07-25T18:31:10.638Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "british_handball.png",
+      "ext": ".png",
+      "name": "british_handball",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593380963,
+      "blocks": 72,
+      "atimeMs": 1532544151496.4124,
+      "mtimeMs": 1532544151199.3777,
+      "ctimeMs": 1532544151738.8943,
+      "birthtimeMs": 1532543470637.9214,
+      "atime": "2018-07-25T18:42:31.496Z",
+      "mtime": "2018-07-25T18:42:31.199Z",
+      "ctime": "2018-07-25T18:42:31.739Z",
+      "birthtime": "2018-07-25T18:31:10.638Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/scottish_handball.png absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/scottish_handball.png absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/img/scottish_handball.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "301c54ed2a005dd3c415c595baf67a7a",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/img/scottish_handball.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/scottish_handball.png",
+      "relativePath": "scottish_handball.png",
+      "extension": "png",
+      "size": 30239,
+      "prettySize": "30.2 kB",
+      "modifiedTime": "2018-07-25T18:39:21.775Z",
+      "accessTime": "2018-07-25T18:35:42.614Z",
+      "changeTime": "2018-07-25T18:39:21.775Z",
+      "birthTime": "2018-07-25T18:31:37.378Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": "scottish_handball.png",
+      "ext": ".png",
+      "name": "scottish_handball",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33152,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593381003,
+      "blocks": 64,
+      "atimeMs": 1532543742614.4353,
+      "mtimeMs": 1532543961774.6125,
+      "ctimeMs": 1532543961774.6125,
+      "birthtimeMs": 1532543497377.5322,
+      "atime": "2018-07-25T18:35:42.614Z",
+      "mtime": "2018-07-25T18:39:21.775Z",
+      "ctime": "2018-07-25T18:39:21.775Z",
+      "birthtime": "2018-07-25T18:31:37.378Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/scottish_handball.png absPath of file >> ImageSharp": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/scottish_handball.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/img/scottish_handball.png absPath of file",
+      "internal": {
+        "contentDigest": "301c54ed2a005dd3c415c595baf67a7a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/british_handball.png absPath of file >> ImageSharp": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/british_handball.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/img/british_handball.png absPath of file",
+      "internal": {
+        "contentDigest": "62f82139b33640cc3ddfa0a8c6b7b42c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/team absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/team absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "60b306273963ed5dcab2e7dc4ea2af04",
+        "type": "Directory",
+        "description": "Directory \"src/pages/team\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/team",
+      "relativePath": "team",
+      "extension": "",
+      "size": 64,
+      "prettySize": "64 B",
+      "modifiedTime": "2018-07-25T19:42:31.088Z",
+      "accessTime": "2018-07-25T19:42:31.169Z",
+      "changeTime": "2018-07-25T19:42:31.088Z",
+      "birthTime": "2018-07-25T19:42:31.088Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/pages",
+      "base": "team",
+      "ext": "",
+      "name": "team",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593382719,
+      "blocks": 0,
+      "atimeMs": 1532547751168.805,
+      "mtimeMs": 1532547751088.1614,
+      "ctimeMs": 1532547751088.1614,
+      "birthtimeMs": 1532547751088.1614,
+      "atime": "2018-07-25T19:42:31.169Z",
+      "mtime": "2018-07-25T19:42:31.088Z",
+      "ctime": "2018-07-25T19:42:31.088Z",
+      "birthtime": "2018-07-25T19:42:31.088Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/team/index.md absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/team/index.md absPath of file",
+      "children": [
+        "/Users/yoanngloaguen/Documents/ghc_website/src/pages/team/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4c0d6e489ab15fe348a7198d5305ba42",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/team/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/team/index.md",
+      "relativePath": "team/index.md",
+      "extension": "md",
+      "size": 3252,
+      "prettySize": "3.25 kB",
+      "modifiedTime": "2018-08-01T10:52:59.749Z",
+      "accessTime": "2018-08-01T10:26:40.789Z",
+      "changeTime": "2018-08-01T10:52:59.749Z",
+      "birthTime": "2018-08-01T10:21:44.307Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/team",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "team",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593400788,
+      "blocks": 8,
+      "atimeMs": 1533119200789.4001,
+      "mtimeMs": 1533120779748.814,
+      "ctimeMs": 1533120779748.814,
+      "birthtimeMs": 1533118904306.534,
+      "atime": "2018-08-01T10:26:40.789Z",
+      "mtime": "2018-08-01T10:52:59.749Z",
+      "ctime": "2018-08-01T10:52:59.749Z",
+      "birthtime": "2018-08-01T10:21:44.307Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/img/.DS_Store absPath of file": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/img/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "194577a7e20bdcc7afbb718f502c134c",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/img/.DS_Store\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/img/.DS_Store",
+      "relativePath": ".DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-07-26T15:39:12.028Z",
+      "accessTime": "2018-07-26T15:39:12.026Z",
+      "changeTime": "2018-07-26T15:39:12.028Z",
+      "birthTime": "2018-07-26T15:39:12.026Z",
+      "root": "/",
+      "dir": "/Users/yoanngloaguen/Documents/ghc_website/src/img",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8593388488,
+      "blocks": 16,
+      "atimeMs": 1532619552026.4277,
+      "mtimeMs": 1532619552027.5586,
+      "ctimeMs": 1532619552027.5586,
+      "birthtimeMs": 1532619552026.4277,
+      "atime": "2018-07-26T15:39:12.026Z",
+      "mtime": "2018-07-26T15:39:12.028Z",
+      "ctime": "2018-07-26T15:39:12.028Z",
+      "birthtime": "2018-07-26T15:39:12.026Z"
+    },
+    "/Users/yoanngloaguen/Documents/ghc_website/src/pages/team/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/team/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/team/index.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: team-page\nimage: /img/glasgow-hc-team-photo_wide.png\nheading: What we offer\ndescription: >-\n  Kaldi is the ultimate spot for coffee lovers who want to learn about their\n  java’s origin and support the farmers that grew it. We take coffee production,\n  roasting and brewing seriously and we’re glad to pass that knowledge to\n  anyone.\nintro:\n  blurbs:\n    - image: /img/alvarozarraga.png\n      text: |+\n\n    - image: /img/andylee.png\n      text: |+\n\n    - image: /img/benji.png\n      text: |+\n\n    - image: /img/danos.png\n      text: |+\n\n    - image: /img/dom.png\n    - image: /img/fran.png\n    - image: /img/gabri.png\n    - image: /img/hamish.png\n    - image: /img/inigo.png\n    - image: /img/jakub.png\n    - image: /img/jo.png\n    - image: /img/kris.png\n    - image: /img/micheal.png\n    - image: /img/seb.png\n    - image: /img/yoann.png\n  heading: What we offer\n  description: >\n    Kaldi is the ultimate spot for coffee lovers who want to learn about their\n    java’s origin and support the farmers that grew it. We take coffee\n    production, roasting and brewing seriously and we’re glad to pass that\n    knowledge to anyone. This is an edit via identity...\nmain:\n  heading: Great coffee with no compromises\n  description: >\n    We hold our coffee to the highest standards from the shrub to the cup.\n    That’s why we’re meticulous and transparent about each step of the coffee’s\n    journey. We personally visit each farm to make sure the conditions are\n    optimal for the plants, farmers and the local environment.\n  image1:\n    alt: A close-up of a paper filter filled with ground coffee\n    image: /img/products-grid3.jpg\n  image2:\n    alt: A green cup of a coffee on a wooden table\n    image: /img/products-grid2.jpg\n  image3:\n    alt: Coffee beans\n    image: /img/products-grid1.jpg\ntestimonials:\n  - author: Elisabeth Kaurismäki\n    quote: >-\n      The first time I tried Kaldi’s coffee, I couldn’t even believe that was\n      the same thing I’ve been drinking every morning.\n  - author: Philipp Trommler\n    quote: >-\n      Kaldi is the place to go if you want the best quality coffee. I love their\n      stance on empowering farmers and transparency.\nfull_image: /img/products-full-width.jpg\npricing:\n  heading: Monthly subscriptions\n  description: >-\n    We make it easy to make great coffee a part of your life. Choose one of our\n    monthly subscription plans to receive great coffee at your doorstep each\n    month. Contact us about more details and payment info.\n  plans:\n    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.\n      items:\n        - 3 lbs of coffee per month\n        - Green or roasted beans\"\n        - One or two varieties of beans\"\n      plan: Small\n      price: '50'\n    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'\n      items:\n        - 6 lbs of coffee per month\n        - Green or roasted beans\n        - Up to 4 different varieties of beans\n      plan: Big\n      price: '80'\n    - description: Want a few tiny batches from different varieties? Try our custom plan\n      items:\n        - Whatever you need\n        - Green or roasted beans\n        - Unlimited varieties\n      plan: Custom\n      price: '??'\n---\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "62f8c5fd84854df72d1ef5a0da3d560d",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "",
+        "templateKey": "team-page",
+        "image": "/img/glasgow-hc-team-photo_wide.png",
+        "heading": "What we offer",
+        "description": "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone.",
+        "intro": {
+          "blurbs": [
+            {
+              "image": "/img/alvarozarraga.png",
+              "text": "\n"
+            },
+            {
+              "image": "/img/andylee.png",
+              "text": "\n"
+            },
+            {
+              "image": "/img/benji.png",
+              "text": "\n"
+            },
+            {
+              "image": "/img/danos.png",
+              "text": "\n"
+            },
+            {
+              "image": "/img/dom.png"
+            },
+            {
+              "image": "/img/fran.png"
+            },
+            {
+              "image": "/img/gabri.png"
+            },
+            {
+              "image": "/img/hamish.png"
+            },
+            {
+              "image": "/img/inigo.png"
+            },
+            {
+              "image": "/img/jakub.png"
+            },
+            {
+              "image": "/img/jo.png"
+            },
+            {
+              "image": "/img/kris.png"
+            },
+            {
+              "image": "/img/micheal.png"
+            },
+            {
+              "image": "/img/seb.png"
+            },
+            {
+              "image": "/img/yoann.png"
+            }
+          ],
+          "heading": "What we offer",
+          "description": "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone. This is an edit via identity...\n"
+        },
+        "main": {
+          "heading": "Great coffee with no compromises",
+          "description": "We hold our coffee to the highest standards from the shrub to the cup. That’s why we’re meticulous and transparent about each step of the coffee’s journey. We personally visit each farm to make sure the conditions are optimal for the plants, farmers and the local environment.\n",
+          "image1": {
+            "alt": "A close-up of a paper filter filled with ground coffee",
+            "image": "/img/products-grid3.jpg"
+          },
+          "image2": {
+            "alt": "A green cup of a coffee on a wooden table",
+            "image": "/img/products-grid2.jpg"
+          },
+          "image3": {
+            "alt": "Coffee beans",
+            "image": "/img/products-grid1.jpg"
+          }
+        },
+        "testimonials": [
+          {
+            "author": "Elisabeth Kaurismäki",
+            "quote": "The first time I tried Kaldi’s coffee, I couldn’t even believe that was the same thing I’ve been drinking every morning."
+          },
+          {
+            "author": "Philipp Trommler",
+            "quote": "Kaldi is the place to go if you want the best quality coffee. I love their stance on empowering farmers and transparency."
+          }
+        ],
+        "full_image": "/img/products-full-width.jpg",
+        "pricing": {
+          "heading": "Monthly subscriptions",
+          "description": "We make it easy to make great coffee a part of your life. Choose one of our monthly subscription plans to receive great coffee at your doorstep each month. Contact us about more details and payment info.",
+          "plans": [
+            {
+              "description": "Perfect for the drinker who likes to enjoy 1-2 cups per day.",
+              "items": [
+                "3 lbs of coffee per month",
+                "Green or roasted beans\"",
+                "One or two varieties of beans\""
+              ],
+              "plan": "Small",
+              "price": "50"
+            },
+            {
+              "description": "Great for avid drinkers, java-loving couples and bigger crowds",
+              "items": [
+                "6 lbs of coffee per month",
+                "Green or roasted beans",
+                "Up to 4 different varieties of beans"
+              ],
+              "plan": "Big",
+              "price": "80"
+            },
+            {
+              "description": "Want a few tiny batches from different varieties? Try our custom plan",
+              "items": [
+                "Whatever you need",
+                "Green or roasted beans",
+                "Unlimited varieties"
+              ],
+              "plan": "Custom",
+              "price": "??"
+            }
+          ]
+        },
+        "_PARENT": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/team/index.md absPath of file",
+        "parent": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/team/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n",
+      "fileAbsolutePath": "/Users/yoanngloaguen/Documents/ghc_website/src/pages/team/index.md",
+      "fields": {
+        "slug": "/team/"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "10d9091060a2076d0b1f137f140de334"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex.md absPath of file >>> MarkdownRemark": [],
+      "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel.md absPath of file >>> MarkdownRemark": [],
+      "/Users/yoanngloaguen/Documents/ghc_website/src/pages/about/index.md absPath of file >>> MarkdownRemark": [],
+      "/Users/yoanngloaguen/Documents/ghc_website/src/pages/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week.md absPath of file >>> MarkdownRemark": [],
+      "/Users/yoanngloaguen/Documents/ghc_website/src/pages/products/index.md absPath of file >>> MarkdownRemark": [],
+      "Site": []
+    },
+    "connections": {
+      "MarkdownRemark": [],
+      "SitePage": []
+    }
+  }
+}
