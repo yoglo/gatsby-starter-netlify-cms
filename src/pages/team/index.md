@@ -1,5 +1,6 @@
 ---
 templateKey: team-page
+path: /team
 image: /img/glasgow-hc-team-photo_wide.png
 heading: What we offer
 description: >-
@@ -11,27 +12,64 @@ intro:
   blurbs:
     - image: /img/alvarozarraga.png
       text: |+
-
+      items:
+        - 3 lbs of coffee per month
     - image: /img/andylee.png
       text: |+
-
+      items:
+        - 3 lbs of coffee per month
     - image: /img/benji.png
       text: |+
-
+      items:
+        - 3 lbs of coffee per month
     - image: /img/danos.png
       text: |+
-
+      items:
+        - 3 lbs of coffee per month
     - image: /img/dom.png
+      text: |+
+      items:
+        - 3 lbs of coffee per month
     - image: /img/fran.png
+      text: |+
+      items:
+        - 3 lbs of coffee per month
     - image: /img/gabri.png
+      text: |+
+      items:
+        - 3 lbs of coffee per month
     - image: /img/hamish.png
+      text: |+
+      items:
+        - 3 lbs of coffee per month
     - image: /img/inigo.png
+      text: |+
+      items:
+        - 3 lbs of coffee per month
     - image: /img/jakub.png
+      text: |+
+      items:
+        - 3 lbs of coffee per month
     - image: /img/jo.png
+      text: |+
+      items:
+        - 3 lbs of coffee per month
     - image: /img/kris.png
+      text: |+
+      items:
+        - 3 lbs of coffee per month
     - image: /img/micheal.png
+      text: |+
+      items:
+        - 3 lbs of coffee per month
     - image: /img/seb.png
+      text: |+
+      items:
+        - 3 lbs of coffee per month
     - image: /img/yoann.png
+      text: |+
+      items:
+        - 3 lbs of coffee per month
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

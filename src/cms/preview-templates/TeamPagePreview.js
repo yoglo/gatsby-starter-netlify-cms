@@ -3,8 +3,8 @@ import PropTypes from 'prop-types'
 import { TeamPageTemplate } from '../../templates/team-page'
 
 const TeamPagePreview = ({ entry, getAsset }) => {
-  const entryBlurbs = entry.getIn(['data', 'intro', 'blurbs'])
-  const blurbs = entryBlurbs ? entryBlurbs.toJS() : []
+  const entryPlays = entry.getIn(['data', 'intro', 'plays'])
+  const plays = entryplays ? entryplays.toJS() : []
 
   const entryTestimonials = entry.getIn(['data', 'testimonials'])
   const testimonials = entryTestimonials ? entryTestimonials.toJS() : []
@@ -17,7 +17,7 @@ const TeamPagePreview = ({ entry, getAsset }) => {
       image={entry.getIn(['data', 'image'])}
       heading={entry.getIn(['data', 'heading'])}
       description={entry.getIn(['data', 'description'])}
-      intro={{ blurbs }}
+      intro={{ plays }}
       main={{
         heading: entry.getIn(['data', 'main', 'heading']),
         description: entry.getIn(['data', 'main', 'description']),
