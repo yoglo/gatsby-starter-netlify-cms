@@ -37,8 +37,8 @@ intro:
         - "DOB : 15/01/1997 (21)"
         - "Nationality : French"
         - "Position : Wing / Centre Back"
-        - "Height 168 cm"
-        - "Weight 60 Kg"
+        - "Height : 168 cm"
+        - "Weight : 60 Kg"
         - "Number : 8"
     - image: /img/danos.png
       text: >
@@ -57,8 +57,8 @@ intro:
         - "DOB : 17/01/1990 (28)"
         - "Nationality : Slovakian"
         - "Position : Wing"
-        - "Height 182 cm"
-        - "Weight 75 Kg"
+        - "Height : 182 cm"
+        - "Weight : 75 Kg"
         - "Number : 10"
     - image: /img/fran.png
       text: >
@@ -67,8 +67,8 @@ intro:
         - "DOB : 18/09/1975 (43)"
         - "Nationality : Spanish"
         - "Position : Centre Back"
-        - "Height 181 cm"
-        - "Weight 78 Kg"
+        - "Height : 181 cm"
+        - "Weight : 78 Kg"
         - "Number : 5"
     - image: /img/gabri.png
       text: |+
