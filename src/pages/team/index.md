@@ -71,86 +71,95 @@ intro:
         - "Weight : 78 Kg"
         - "Number : 5"
     - image: /img/gabri.png
-      text: |+
+      text: >
+        Gabriel Fernandez Alonso
       items:
-        - "DOB 18/10/1995 (22)"
-        - "Nationality Spanish"
-        - "Position Back"
-        - "Height 187 cm"
-        - "Weight 80 Kg"
-        - "Number : 13"
+        - "DOB : 19/07/1988 (30)"
+        - "Nationality : Spanish"
+        - "Position : Back"
+        - "Height 181 cm"
+        - "Weight : 85 Kg"
+        - "Number : 14"
     - image: /img/hamish.png
-      text: |+
+      text: >
+        Hamish Bottomley
       items:
-        - "DOB 18/10/1995 (22)"
-        - "Nationality Spanish"
-        - "Position Back"
-        - "Height 187 cm"
-        - "Weight 80 Kg"
-        - "Number : 13"
+        - "DOB : 16/11/2000 (17)"
+        - "Nationality : Scottish"
+        - "Position : Goalkeeper"
+        - "Height : 189 cm"
+        - "Weight : 80 Kg"
+        - "Number : 12"
     - image: /img/inigo.png
-      text: |+
+      text: >
+        Inigo Arraras Basterra
       items:
-        - "DOB 18/10/1995 (22)"
-        - "Nationality Spanish"
-        - "Position Back"
-        - "Height 187 cm"
-        - "Weight 80 Kg"
-        - "Number : 13"
+        - "DOB : 13/08/87 (31)"
+        - "Nationality : Spanish"
+        - "Position : Back / Centre Back"
+        - "Height : 173 cm"
+        - "Weight : 75 Kg"
+        - "Number : 7"
     - image: /img/jakub.png
-      text: |+
+      text: >
+        Jakub Piatek
       items:
-        - "DOB 18/10/1995 (22)"
-        - "Nationality Spanish"
-        - "Position Back"
-        - "Height 187 cm"
-        - "Weight 80 Kg"
-        - "Number : 13"
+        - "DOB : 10/06/2000 (18)"
+        - "Nationality : Polish"
+        - "Position : Back / Wing"
+        - "Height : 178 cm"
+        - "Weight : 73 Kg"
+        - "Number : 11"
     - image: /img/jo.png
-      text: |+
+      text: >
+        Josef Camilleri
       items:
-        - "DOB 18/10/1995 (22)"
-        - "Nationality Spanish"
-        - "Position Back"
-        - "Height 187 cm"
-        - "Weight 80 Kg"
-        - "Number : 13"
+        - "DOB : 18/07/1987 (31)"
+        - "Nationality : Maltese"
+        - "Position : Goalkeeper"
+        - "Height : 175 cm"
+        - "Weight : 87 Kg"
+        - "Number : 1"
     - image: /img/kris.png
-      text: |+
+      text: >
+        Krzysztof Szulc
       items:
-        - "DOB 18/10/1995 (22)"
-        - "Nationality Spanish"
-        - "Position Back"
-        - "Height 187 cm"
-        - "Weight 80 Kg"
-        - "Number : 13"
+        - "DOB : 10/01/1980 (38)"
+        - "Nationality : Polish"
+        - "Position : Pivot / Wing"
+        - "Height : 180 cm"
+        - "Weight : 95 Kg"
+        - "Number : 77"
     - image: /img/micheal.png
-      text: |+
+      text: >
+        Michael Thomas
       items:
-        - "DOB 18/10/1995 (22)"
-        - "Nationality Spanish"
-        - "Position Back"
+        - "DOB : 13/03/1986 (32)"
+        - "Nationality Australian"
+        - "Position : Back / Wing"
         - "Height 187 cm"
-        - "Weight 80 Kg"
-        - "Number : 13"
+        - "Weight 98 Kg"
+        - "Number : 15"
     - image: /img/seb.png
-      text: |+
+      text: >
+        Sebastian Blaszczyk
       items:
-        - "DOB 18/10/1995 (22)"
-        - "Nationality Spanish"
-        - "Position Back"
-        - "Height 187 cm"
-        - "Weight 80 Kg"
-        - "Number : 13"
+        - "DOB : 06/02/1993 (25)"
+        - "Nationality : Polish"
+        - "Position : Wing"
+        - "Height : 183 cm"
+        - "Weight : 83 Kg"
+        - "Number : 4"
     - image: /img/yoann.png
-      text: |+
+      text: >
+        Yoann Gloaguen
       items:
-        - "DOB 18/10/1995 (22)"
-        - "Nationality Spanish"
-        - "Position Back"
-        - "Height 187 cm"
-        - "Weight 80 Kg"
-        - "Number : 13"
+        - "DOB : 06/08/1987 (31)"
+        - "Nationality : French"
+        - "Position : Centre Back / Wing"
+        - "Height 177 cm"
+        - "Weight 65 Kg"
+        - "Number : 3"
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
