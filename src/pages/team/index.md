@@ -11,65 +11,142 @@ description: >-
 intro:
   blurbs:
     - image: /img/alvarozarraga.png
-      text: |+
+      text: >
+        Alvaro Zarraga Lopez-Quiles
       items:
-        - 3 lbs of coffee per month
+        - "DOB : 18/10/1995 (22)"
+        - "Nationality : Spanish"
+        - "Position : Back"
+        - "Height : 187 cm"
+        - "Weight : 80 Kg"
+        - "Number : 13"
     - image: /img/andylee.png
-      text: |+
+      text: >
+        Andy Moose Wan Fung Lee
       items:
-        - 3 lbs of coffee per month
+        - "DOB : 10/01/1996 (22)"
+        - "Nationality : Hong Kong"
+        - "Position : Wing"
+        - "Height : 178 cm"
+        - "Weight : 75 Kg"
+        - "Number : 9"
     - image: /img/benji.png
       text: |+
       items:
-        - 3 lbs of coffee per month
+        - "DOB 18/10/1995 (22)"
+        - "Nationality Spanish"
+        - "Position Back"
+        - "Height 187 cm"
+        - "Weight 80 Kg"
+        - "Number : 13"
     - image: /img/danos.png
       text: |+
       items:
-        - 3 lbs of coffee per month
+        - "DOB 18/10/1995 (22)"
+        - "Nationality Spanish"
+        - "Position Back"
+        - "Height 187 cm"
+        - "Weight 80 Kg"
+        - "Number : 13"
     - image: /img/dom.png
       text: |+
       items:
-        - 3 lbs of coffee per month
+        - "DOB 18/10/1995 (22)"
+        - "Nationality Spanish"
+        - "Position Back"
+        - "Height 187 cm"
+        - "Weight 80 Kg"
+        - "Number : 13"
     - image: /img/fran.png
       text: |+
       items:
-        - 3 lbs of coffee per month
+        - "DOB 18/10/1995 (22)"
+        - "Nationality Spanish"
+        - "Position Back"
+        - "Height 187 cm"
+        - "Weight 80 Kg"
+        - "Number : 13"
     - image: /img/gabri.png
       text: |+
       items:
-        - 3 lbs of coffee per month
+        - "DOB 18/10/1995 (22)"
+        - "Nationality Spanish"
+        - "Position Back"
+        - "Height 187 cm"
+        - "Weight 80 Kg"
+        - "Number : 13"
     - image: /img/hamish.png
       text: |+
       items:
-        - 3 lbs of coffee per month
+        - "DOB 18/10/1995 (22)"
+        - "Nationality Spanish"
+        - "Position Back"
+        - "Height 187 cm"
+        - "Weight 80 Kg"
+        - "Number : 13"
     - image: /img/inigo.png
       text: |+
       items:
-        - 3 lbs of coffee per month
+        - "DOB 18/10/1995 (22)"
+        - "Nationality Spanish"
+        - "Position Back"
+        - "Height 187 cm"
+        - "Weight 80 Kg"
+        - "Number : 13"
     - image: /img/jakub.png
       text: |+
       items:
-        - 3 lbs of coffee per month
+        - "DOB 18/10/1995 (22)"
+        - "Nationality Spanish"
+        - "Position Back"
+        - "Height 187 cm"
+        - "Weight 80 Kg"
+        - "Number : 13"
     - image: /img/jo.png
       text: |+
       items:
-        - 3 lbs of coffee per month
+        - "DOB 18/10/1995 (22)"
+        - "Nationality Spanish"
+        - "Position Back"
+        - "Height 187 cm"
+        - "Weight 80 Kg"
+        - "Number : 13"
     - image: /img/kris.png
       text: |+
       items:
-        - 3 lbs of coffee per month
+        - "DOB 18/10/1995 (22)"
+        - "Nationality Spanish"
+        - "Position Back"
+        - "Height 187 cm"
+        - "Weight 80 Kg"
+        - "Number : 13"
     - image: /img/micheal.png
       text: |+
       items:
-        - 3 lbs of coffee per month
+        - "DOB 18/10/1995 (22)"
+        - "Nationality Spanish"
+        - "Position Back"
+        - "Height 187 cm"
+        - "Weight 80 Kg"
+        - "Number : 13"
     - image: /img/seb.png
       text: |+
       items:
-        - 3 lbs of coffee per month
+        - "DOB 18/10/1995 (22)"
+        - "Nationality Spanish"
+        - "Position Back"
+        - "Height 187 cm"
+        - "Weight 80 Kg"
+        - "Number : 13"
     - image: /img/yoann.png
       text: |+
       items:
-        - 3 lbs of coffee per month
+        - "DOB 18/10/1995 (22)"
+        - "Nationality Spanish"
+        - "Position Back"
+        - "Height 187 cm"
+        - "Weight 80 Kg"
+        - "Number : 13"
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

@@ -9,10 +9,10 @@ const FeatureGrid = ({ gridItems }) => (
           <p className="has-text-centered">
             <img alt="" src={item.image} />
           </p>
-          <p className="has-text-weight-bold">{item.text}</p>
+          <p className="has-text-weight-bold has-text-centered is-size-5">{item.text}</p>
           <ul>
             {item.items.map(subitem => (
-              <li key={subitem} className="is-size-5">
+              <li key={subitem} className="is-size-8">
                 {subitem}
               </li>
             ))}
