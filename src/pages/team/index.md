@@ -1,5 +1,6 @@
 ---
 templateKey: team-page
+path: /team
 image: /img/glasgow-hc-team-photo_wide.png
 heading: Men's first team
 description: >-
