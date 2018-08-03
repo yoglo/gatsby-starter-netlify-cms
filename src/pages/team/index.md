@@ -48,7 +48,7 @@ intro:
         - 'Weight : 89 Kg'
         - 'Number : 17'
       text: |
-        Athanasios (Danos) Sagias
+        Danos Sagias
     - image: /img/dom.png
       items:
         - 'DOB : 17/01/1990 (28)'
