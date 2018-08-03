@@ -61,7 +61,7 @@ intro:
       text: >
         Francisco Cuéllar Bertos
       items:
-        - "DOB : 18/09/1975 (43)"
+        - "DOB : 18/09/1975 (42)"
         - "Nationality : Spanish"
         - "Position : Centre Back"
         - "Height : 181 cm"
@@ -132,7 +132,7 @@ intro:
         Michael Thomas
       items:
         - "DOB : 13/03/1986 (32)"
-        - "Nationality Australian"
+        - "Nationality : Australian"
         - "Position : Back / Wing"
         - "Height : 187 cm"
         - "Weight : 98 Kg"
