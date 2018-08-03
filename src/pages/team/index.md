@@ -4,7 +4,7 @@ image: /img/glasgow-hc-team-photo_wide.png
 heading: Men's first team
 description: >-
   Glasgow handball club men's first team is composed of players of all levels
-  and experience coming from many different country all over the world. We are
+  and experience coming from many different countries all over the world. We are
   always happy to welcome new people, experienced or beginners alike. See our
   "About" page to contact us. 
 intro:
