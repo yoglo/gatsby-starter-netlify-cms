@@ -9,7 +9,7 @@ tags:
 ---
 ![GHC vs Talent Plzen](/img/ghc_plzen_sized.png)
 
-Glasgow handball fundraising campaign is officially launched on pledgesports.org! Follow the link take part to the European adventure:
+Glasgow handball fundraising campaign is officially launched on pledgesports.org! Follow the link to take part in the European adventure:
 
 [GHC fundraising page](https://www.pledgesports.org/projects/glasgow-handball-club-european-campaign-201819-3/)
 
