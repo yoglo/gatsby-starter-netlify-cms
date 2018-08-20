@@ -7,7 +7,7 @@ tags:
   - EHF cup
   - fundraising
 ---
-![GHC vs Talent Plzen](/img/20180806_012605_0001.png)
+![GHC vs Talent Plzen](/img/ghc_plzen_sized.png)
 
 Glasgow handball fundraising campaign is officially launched on pledgesports.org! Follow the link take part to the European adventure:
 
