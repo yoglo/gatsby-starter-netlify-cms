@@ -9,6 +9,7 @@ tags:
   - European handball
   - Francisco Cuéllar Bertos
   - Josef Camilleri
+  - Krzysztof Szulc
 ---
 ![GHC vs Talent Plzen](/img/ghc_plzen_sized.png)
 
@@ -17,6 +18,12 @@ Glasgow handball fundraising campaign is officially launched on pledgesports.org
 [GHC fundraising page](https://www.pledgesports.org/projects/glasgow-handball-club-european-campaign-201819-3/)
 
 Player profiles will be released everyday on this page – stay tuned to get to know the team.
+
+## \#77 for Glasgow Handball - Krzysztof Szulc
+
+![](/img/kris_profile.jpg)
+
+Having previously played for [MTS Kwidzyn 2003](https://www.facebook.com/mtskwidzyn03/), [HG Hamburg Barmbek](https://www.facebook.com/HG.Hamburg.Barmbek/) and [Polski Cukier SPR Pomezania Malbork](https://www.facebook.com/PolskiCukierSprPomezaniaMalbork/), Szulc first joined Glasgow Handball back in 2008. Throughout his handball career in Scotland, Szulc tried out a short spell with Ayr Handball Club, after which he returned back to his natural home at Glasgow Handball last season. His commitment and professionalism on court and outside court is outstanding. Throughout the 2017/18 season, Szulc was also supporting the coaching staff sharing his knowledge and expertise on strength and conditioning preparations. Through him, the Glasgow players profited from [Kris Sports Therapy](https://www.facebook.com/krissportstherapy/) physiotherapist services.
 
 ## \#5 for Glasgow Handball - Francisco Cuéllar Bertos
 
@@ -28,4 +35,4 @@ The most experienced and time serving player for #Glasgowhandball, Cuéllar kick
 
 ![Josef Camilleri](/img/jo_profile.png)
 
-A product of Lasalle handball club, after building a colourful portfolio winning Leagues, Cups and Knock-out titles from juniors through to seniors level at Malta handball association, Camilleri joined Glasgow handball 6 seasons ago and lead the team to several national Scottish handball titles. The EHF Cup will be the last games which Camilleri will be playing for the Scottish side, after which he will be venturing on French grounds. Hence he will definitely want to make this one count.
+A product of [Lasalle handball club](https://www.facebook.com/LaSalleHc/), after building a colourful portfolio winning Leagues, Cups and Knock-out titles from juniors through to seniors level at Malta handball association, Camilleri joined Glasgow handball 6 seasons ago and lead the team to several national Scottish handball titles. The EHF Cup will be the last games which Camilleri will be playing for the Scottish side, after which he will be venturing on French grounds. Hence he will definitely want to make this one count.
