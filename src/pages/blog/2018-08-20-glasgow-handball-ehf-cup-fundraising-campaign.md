@@ -18,7 +18,7 @@ Glasgow handball fundraising campaign is officially launched on pledgesports.org
 
 Player profiles will be released everyday on this page – stay tuned to get to know the team.
 
-## \#5 for #Glasgowhandball
+## \#5 for Glasgow Handball - Francisco Cuéllar Bertos
 
 ![Francisco Cuéllar Bertos](/img/fran_profile.jpg)
 
