@@ -10,6 +10,7 @@ tags:
   - Francisco Cuéllar Bertos
   - Josef Camilleri
   - Krzysztof Szulc
+  - Alvaro Zarraga Lopez-Quiles
 ---
 ![GHC vs Talent Plzen](/img/ghc_plzen_sized.png)
 
@@ -19,9 +20,17 @@ Glasgow handball fundraising campaign is officially launched on pledgesports.org
 
 Player profiles will be released everyday on this page – stay tuned to get to know the team.
 
+## \#13 for Glasgow Handball - Alvaro Zarraga Lopez-Quiles
+
+![Alvaro Zarraga Lopez-Quiles](/img/alvaro_profile.jpg)
+
+Back with his Spanish club [S.D. El Pilar Valencia](https://www.facebook.com/sdelpilarvalencia/), Zarraga Lopez-Quiles was mainly utilised for an offense defence style of playing due to his physical nature, a combination of strength and height. Upon joining Glasgow Handball last season, through constant guidance and mentoring, the coaching staff worked closely with Zarraga and managed to fully exploit his abilities, increasing his potential as a player. The team worked on a style of play which fitted him best and which complemented the team’s style of game, turning him into a goal-making machine. This paid off and his contribution to meet the club’s objectives and consistency throughout the season were very valuable.
+
+
+
 ## \#77 for Glasgow Handball - Krzysztof Szulc
 
-![](/img/kris_profile.jpg)
+![null](/img/kris_profile.jpg)
 
 Having previously played for [MTS Kwidzyn 2003](https://www.facebook.com/mtskwidzyn03/), [HG Hamburg Barmbek](https://www.facebook.com/HG.Hamburg.Barmbek/) and [Polski Cukier SPR Pomezania Malbork](https://www.facebook.com/PolskiCukierSprPomezaniaMalbork/), Szulc first joined Glasgow Handball back in 2008. Throughout his handball career in Scotland, Szulc tried out a short spell with Ayr Handball Club, after which he returned back to his natural home at Glasgow Handball last season. His commitment and professionalism on court and outside court is outstanding. Throughout the 2017/18 season, Szulc was also supporting the coaching staff sharing his knowledge and expertise on strength and conditioning preparations. Through him, the Glasgow players profited from [Kris Sports Therapy](https://www.facebook.com/krissportstherapy/) physiotherapist services.
 
