@@ -7,6 +7,9 @@ tags:
   - EHF cup
   - fundraising
   - European handball
+  - Hamish Bottomley
+  - Danos Sagias
+  - Andy Moose Wan Fung Lee
   - Francisco Cuéllar Bertos
   - Josef Camilleri
   - Krzysztof Szulc
@@ -19,6 +22,24 @@ Glasgow handball fundraising campaign is officially launched on pledgesports.org
 [GHC fundraising page](https://www.pledgesports.org/projects/glasgow-handball-club-european-campaign-201819-3/)
 
 Player profiles will be released everyday on this page – stay tuned to get to know the team.
+
+## \#12 for Glasgow Handball - Hamish Bottomley
+
+![Hamish Bottomley](/img/hamish_profile.jpg)
+
+The pride of [Kelvinside Academy](https://www.facebook.com/Kelvinside1878/) and foreseen as one of the most promising talents in [Scottish Handball Association](https://www.facebook.com/scottishhandballassociationofficial/) and[ British Handball Association](https://www.facebook.com/britishhandball/). Bottomley joined Glasgow Handball last season. His talent is second to none and his track record speaks for itself. Bottomley already won all the titles the national scene has to offer at a tender age of 17, what can be considered as a handball career goal and is probably the youngest British player to ever achieve this. The future is definitely bright, and with few national caps under his belt, Bottomley is looking forward to new challenges and eager to compete at 1 of the highest levels of #Europeanhanball.
+
+## \#9 for Glasgow Handball - Andy Moose Wan Fung Lee
+
+![Andy Moose Wan Fung Lee](/img/andy_lee_profile.png)
+
+Previously playing for Ho Kwok Pui Chun, a 1st division team in Hong Kong, Wan Fung Lee joined Glasgow Handball 3 seasons ago and was another key to the success the team has been going throughout these past seasons. What he’s missing in height he makes up for it with his agility. His fighting spirit surely doesn’t pass unnoticed.
+
+## \#17 for Glasgow Handball - Danos Sagias
+
+![Danos Sagias](/img/danos_profile.jpg)
+
+Dedication, commitment, and hard work are only a scratch on the tip of an iceberg when describing Sagias. A role model and an inspiration for the younger generation and definitely worth carrying the captain's strap. His passion for #handball was firstly discovered in Corfu with Feax Kerkyras. Throughout the 10 years spell playing for Glasgow Handball, Danos won several national titles with the club. His most recent success was last season where he captained the team through the most successful season in the club's history, winning the treble, consisting of the Scottish League, the Scottish Cup, and the British play-offs, and hence automatically qualifying for the EHF Cup for the first time.
 
 ## \#13 for Glasgow Handball - Alvaro Zarraga Lopez-Quiles
 
