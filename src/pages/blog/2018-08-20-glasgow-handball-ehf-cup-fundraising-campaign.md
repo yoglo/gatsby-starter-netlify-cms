@@ -7,6 +7,7 @@ tags:
   - EHF cup
   - fundraising
   - European handball
+  - Gabriel Fernandez Alonso
   - Hamish Bottomley
   - Danos Sagias
   - Andy Moose Wan Fung Lee
@@ -22,6 +23,12 @@ Glasgow handball fundraising campaign is officially launched on pledgesports.org
 [GHC fundraising page](https://www.pledgesports.org/projects/glasgow-handball-club-european-campaign-201819-3/)
 
 Player profiles will be released everyday on this page – stay tuned to get to know the team.
+
+## \#14 for Glasgow Handball - Gabriel Fernandez Alonso
+
+![Gabriel Fernandez Alonso](/img/gabri_profile.jpg)
+
+Fernandez Alonso comes from the Spanish city of Leon, a city not new to handball. His first handball experience was with the historic club of [Ademar León](https://www.facebook.com/Ademar-Le%C3%B3n-161347353879568/) and later joined the team from the Universidad de Burgos in which season they had a good run at the national championship. Needless to highlight that Fernandez is a natural talent that retains a wide vision of the game, which comes natural only to him. Fernandez has been playing 5 seasons for Glasgow Handball. Unfortunately, throughout the pre-season preparations of last year Fernandez suffered a severe injury that kept him on the sidelines for most of the season. However, following operation and an intense rehabilitation program set and monitored by the club’s physiotherapist staff Kris Sports Therapy, Fernandez made an impressive recovery and comeback, and was instrumental in the final stages of the season to secure the League and Cup competitions, and eventually winning the British play-offs which paved the way to the #EHFCup qualifiers.
 
 ## \#12 for Glasgow Handball - Hamish Bottomley
 
@@ -46,8 +53,6 @@ Dedication, commitment, and hard work are only a scratch on the tip of an iceber
 ![Alvaro Zarraga Lopez-Quiles](/img/alvaro_profile.jpg)
 
 Back with his Spanish club [S.D. El Pilar Valencia](https://www.facebook.com/sdelpilarvalencia/), Zarraga Lopez-Quiles was mainly utilised for an offense defence style of playing due to his physical nature, a combination of strength and height. Upon joining Glasgow Handball last season, through constant guidance and mentoring, the coaching staff worked closely with Zarraga and managed to fully exploit his abilities, increasing his potential as a player. The team worked on a style of play which fitted him best and which complemented the team’s style of game, turning him into a goal-making machine. This paid off and his contribution to meet the club’s objectives and consistency throughout the season were very valuable.
-
-
 
 ## \#77 for Glasgow Handball - Krzysztof Szulc
 
